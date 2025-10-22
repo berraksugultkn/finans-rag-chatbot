@@ -1,38 +1,46 @@
-# Finans RAG Chatbot (Türkçe)
+# 💰 Finans RAG Chatbot
 
-Bu proje, `finans_sorulari.csv` dosyanızdaki Soru–Cevap verisini kullanarak RAG tabanlı bir chatbot sunar.
-- Embedding: Sentence-Transformers (multilingual)
-- Retriever: Nearest Neighbors (cosine)
-- Generator: OpenAI (opsiyonel; anahtarsız modda en yakın cevabı verir)
-- UI: Streamlit
+**Proje Türü:** Python • Yapay Zekâ • RAG (Retrieval-Augmented Generation)  
+**Geliştirici:** Berraksu Gültekin  
+**Bootcamp:** Generative AI 101 (GAIH)  
 
-## Hızlı Başlangıç
+---
 
+## 🎯 Proje Amacı
+Bu proje, Türkçe finans verileriyle çalışan bir **RAG (Retrieval-Augmented Generation)** tabanlı chatbot geliştirmeyi amaçlar.  
+Kullanıcıların kredi, faiz, ekonomi, yatırım gibi finansal konulardaki sorularına **önceden yüklenmiş CSV veri tabanından** yanıt verir.
+
+---
+
+## 🧠 RAG Nedir?
+**RAG (Retrieval-Augmented Generation)**, yapay zekâ modellerinin dış veriyle desteklenerek çalışmasını sağlayan bir tekniktir.  
+Model önce soruya uygun bilgileri veri tabanından “getirir” (*Retrieval*),  
+daha sonra bu bilgiyi kullanarak doğal bir yanıt üretir (*Generation*).
+
+---
+
+## ⚙️ Kullanılan Teknolojiler
+- **Python 3.11**
+- **Streamlit** → Web arayüzü  
+- **Sentence Transformers** → Türkçe embedding modeli  
+- **Pandas** → CSV veri işleme  
+- **Google Gemini API (opsiyonel)** → LLM ile yanıt üretimi  
+- **FAISS / sklearn NearestNeighbors** → Benzerlik arama  
+
+---
+
+## 🧩 Çalışma Mantığı
+1. Kullanıcı bir soru yazar.  
+2. Sistem, `finans_sorulari.csv` dosyasındaki sorularla vektör benzerliği kurar.  
+3. En yakın kayıtları getirir.  
+4. Eğer **Google API Key** girilmişse, Gemini modeliyle doğal yanıt oluşturur.  
+5. Sonuç arayüzde gösterilir.
+
+---
+
+## 🧰 Kurulum
+### 1️⃣ Sanal ortam oluştur
 ```bash
-# 1) Sanal ortam (önerilir)
-python -m venv venv && venv\Scripts\activate    # Windows
-# source venv/bin/activate                        # macOS/Linux
+python -m venv venv
+venv\Scripts\activate
 
-# 2) Gerekli paketler
-pip install -r requirements.txt
-
-# 3) Veri dosyasını proje klasörüne kopyalayın
-copy "..\finans_sorulari.csv" .                  # Windows örnek komut
-
-# 4) (Opsiyonel) OpenAI anahtarınızı ayarlayın
-setx OPENAI_API_KEY "sk-...."                     # Windows kalıcı
-# export OPENAI_API_KEY="sk-...."                 # macOS/Linux
-
-# 5) Uygulamayı başlatın
-streamlit run app.py
-```
-
-## Yapı
-- `app.py`: Streamlit uygulaması
-- `requirements.txt`: Bağımlılıklar
-- `finans_sorulari.csv`: veri (id; soru; cevap; kategori)
-
-## Notlar
-- İlk çalıştırmada embedding modeli indirildiği için biraz sürebilir.
-- OpenAI anahtarı girmezseniz, sistem en yakın kaydın `cevap` metnini döndürür.
-- Bootcamp gereklilikleri için README'de mimari ve kurulum adımlarını anlattık.
