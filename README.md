@@ -8,14 +8,17 @@
 
 ## 🎯 Proje Amacı
 Bu proje, Türkçe finans verileriyle çalışan bir **RAG (Retrieval-Augmented Generation)** tabanlı chatbot geliştirmeyi amaçlar.  
-Kullanıcıların kredi, faiz, ekonomi, yatırım gibi finansal konulardaki sorularına **önceden yüklenmiş CSV veri tabanından** yanıt verir.
+Kullanıcıların kredi, faiz, ekonomi, yatırım gibi finansal konulardaki sorularına **önceden yüklenmiş CSV veri tabanından** yanıt verir.  
+Projede amaç, büyük dil modellerini (LLM) gerçek veriyle birleştirerek alan odaklı akıllı bir finans asistanı geliştirmektir.
 
 ---
 
 ## 🧠 RAG Nedir?
 **RAG (Retrieval-Augmented Generation)**, yapay zekâ modellerinin dış veriyle desteklenerek çalışmasını sağlayan bir tekniktir.  
 Model önce soruya uygun bilgileri veri tabanından “getirir” (*Retrieval*),  
-daha sonra bu bilgiyi kullanarak doğal bir yanıt üretir (*Generation*).
+daha sonra bu bilgiyi kullanarak doğal bir yanıt üretir (*Generation*).  
+
+Bu yaklaşım, modelin yalnızca eğitildiği bilgiye değil, senin yüklediğin özel veriye dayanarak yanıt vermesini sağlar.  
 
 ---
 
@@ -25,7 +28,7 @@ daha sonra bu bilgiyi kullanarak doğal bir yanıt üretir (*Generation*).
 - **Sentence Transformers** → Türkçe embedding modeli  
 - **Pandas** → CSV veri işleme  
 - **Google Gemini API (opsiyonel)** → LLM ile yanıt üretimi  
-- **FAISS / sklearn NearestNeighbors** → Benzerlik arama  
+- **sklearn NearestNeighbors** → Benzerlik arama  
 
 ---
 
@@ -39,6 +42,7 @@ daha sonra bu bilgiyi kullanarak doğal bir yanıt üretir (*Generation*).
 ---
 
 ## 🧰 Kurulum
+
 ### 1️⃣ Sanal ortam oluştur
 ```bash
 python -m venv venv
