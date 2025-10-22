@@ -1,0 +1,1001 @@
+﻿id;soru;cevap;kategori
+1;Banka kredisi nasıl alınır?;Banka kredisi, başvuru, değerlendirme ve onay süreciyle alınır.;Bankacılık
+2;Merkez Bankası ne iş yapar?;Merkez Bankası para politikasını belirler ve fiyat istikrarını sağlamaya çalışır.;Makroekonomi
+3;GSYH neyi ifade eder?;GSYH, bir ülkede belirli bir dönemde üretilen tüm nihai mal ve hizmetlerin toplam değeridir.;Makroekonomi
+4;Blok zinciri nasıl çalışır?;Blok zinciri, işlemleri doğrulayan ve kaydeden dağıtık bir veri yapısıdır.;Kripto Para
+5;Hayat sigortası nedir?;Hayat sigortası, vefat veya belirli durumlarda finansal güvence sağlayan poliçedir.;Sigorta
+6;Kredi notu nedir?;Kredi notu, bireyin finansal geçmişine göre belirlenen risk puanıdır.;Finansal Okuryazarlık
+7;Arz ve talep nedir?;Arz, satıcıların piyasaya sunduğu miktar;
+8;Vadeli mevduat nedir?;Vadeli mevduat, belirli bir süre sonunda faiz getirisi sağlayan banka hesabıdır.;Bankacılık
+9;Hisse senedi ne işe yarar?;Hisse senedi, bir şirkete ortak olma payını temsil eder.;Yatırım ve Borsa
+10;GSYH neyi ifade eder?;GSYH, bir ülkede belirli bir dönemde üretilen tüm nihai mal ve hizmetlerin toplam değeridir.;Makroekonomi
+11;Prim nedir?;Prim, sigorta için düzenli olarak ödenen bedeldir.;Sigorta
+12;Faiz oranı nedir?;Faiz oranı, borç verilen paranın getirisini ifade eder.;Kredi ve Faiz
+13;İhtiyaç kredisi nedir?;İhtiyaç kredisi, kişisel harcamalar için alınan kısa vadeli kredidir.;Kredi ve Faiz
+14;Merkez Bankası ne iş yapar?;Merkez Bankası para politikasını belirler ve fiyat istikrarını sağlamaya çalışır.;Makroekonomi
+15;Prim nedir?;Prim, sigorta için düzenli olarak ödenen bedeldir.;Sigorta
+16;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+17;Kredi kartı limiti nasıl belirlenir?;Kredi kartı limiti, kişinin gelirine ve kredi notuna göre belirlenir.;Bankacılık
+18;Arz ve talep nedir?;Arz, satıcıların piyasaya sunduğu miktar;
+19;Kredi faizi nasıl hesaplanır?;Kredi faizi, anapara üzerinden belirli bir oranda hesaplanır.;Kredi ve Faiz
+20;Kripto cüzdanı nedir?;Kripto cüzdanı, dijital varlıkları saklamak için kullanılan yazılım veya donanımdır.;Kripto Para
+21;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+22;Kredi faizi nasıl hesaplanır?;Kredi faizi, anapara üzerinden belirli bir oranda hesaplanır.;Kredi ve Faiz
+23;Fiyat dengesi nasıl oluşur?;Piyasada arz ve talep eşitlendiğinde fiyat dengesi oluşur.;Mikroekonomi
+24;Merkez Bankası ne iş yapar?;Merkez Bankası para politikasını belirler ve fiyat istikrarını sağlamaya çalışır.;Makroekonomi
+25;Enflasyon nedir?;Enflasyon, genel fiyat seviyesinin zaman içinde sürekli artmasıdır.;Makroekonomi
+26;Faiz oranları neden yükselir?;Faiz oranları enflasyon artışı, döviz kuru baskısı veya sıkı para politikası nedeniyle yükselebilir.;Makroekonomi
+27;Zorunlu trafik sigortası ne işe yarar?;Zorunlu trafik sigortası, kazalarda karşı tarafın zararını karşılar.;Sigorta
+28;Fiyat dengesi nasıl oluşur?;Piyasada arz ve talep eşitlendiğinde fiyat dengesi oluşur.;Mikroekonomi
+29;Arz ve talep nedir?;Arz, satıcıların piyasaya sunduğu miktar;
+30;Temettü nedir?;Temettü, şirketin kârından hissedarlara dağıtılan paydır.;Yatırım ve Borsa
+31;GSYH neyi ifade eder?;GSYH, bir ülkede belirli bir dönemde üretilen tüm nihai mal ve hizmetlerin toplam değeridir.;Makroekonomi
+32;Hisse senedi ne işe yarar?;Hisse senedi, bir şirkete ortak olma payını temsil eder.;Yatırım ve Borsa
+33;Hisse senedi ne işe yarar?;Hisse senedi, bir şirkete ortak olma payını temsil eder.;Yatırım ve Borsa
+34;Prim nedir?;Prim, sigorta için düzenli olarak ödenen bedeldir.;Sigorta
+35;Kredi faizi nasıl hesaplanır?;Kredi faizi, anapara üzerinden belirli bir oranda hesaplanır.;Kredi ve Faiz
+36;Arz ve talep nedir?;Arz, satıcıların piyasaya sunduğu miktar;
+37;Kredi notu nedir?;Kredi notu, bireyin finansal geçmişine göre belirlenen risk puanıdır.;Finansal Okuryazarlık
+38;Tasarruf neden önemlidir?;Tasarruf, gelecekteki harcamalar veya acil durumlar için güvence sağlar.;Finansal Okuryazarlık
+39;Merkez Bankası ne iş yapar?;Merkez Bankası para politikasını belirler ve fiyat istikrarını sağlamaya çalışır.;Makroekonomi
+40;Merkez Bankası ne iş yapar?;Merkez Bankası para politikasını belirler ve fiyat istikrarını sağlamaya çalışır.;Makroekonomi
+41;Hayat sigortası nedir?;Hayat sigortası, vefat veya belirli durumlarda finansal güvence sağlayan poliçedir.;Sigorta
+42;Bütçe nasıl yapılır?;Gelir ve giderler belirlenip planlı bir şekilde yönetilerek bütçe oluşturulur.;Finansal Okuryazarlık
+43;Bütçe nasıl yapılır?;Gelir ve giderler belirlenip planlı bir şekilde yönetilerek bütçe oluşturulur.;Finansal Okuryazarlık
+44;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+45;Arz ve talep nedir?;Arz, satıcıların piyasaya sunduğu miktar;
+46;GSYH neyi ifade eder?;GSYH, bir ülkede belirli bir dönemde üretilen tüm nihai mal ve hizmetlerin toplam değeridir.;Makroekonomi
+47;Kredi faizi nasıl hesaplanır?;Kredi faizi, anapara üzerinden belirli bir oranda hesaplanır.;Kredi ve Faiz
+48;Blok zinciri nasıl çalışır?;Blok zinciri, işlemleri doğrulayan ve kaydeden dağıtık bir veri yapısıdır.;Kripto Para
+49;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+50;Bütçe nasıl yapılır?;Gelir ve giderler belirlenip planlı bir şekilde yönetilerek bütçe oluşturulur.;Finansal Okuryazarlık
+51;Kredi kartı limiti nasıl belirlenir?;Kredi kartı limiti, kişinin gelirine ve kredi notuna göre belirlenir.;Bankacılık
+52;Tasarruf neden önemlidir?;Tasarruf, gelecekteki harcamalar veya acil durumlar için güvence sağlar.;Finansal Okuryazarlık
+53;İhtiyaç kredisi nedir?;İhtiyaç kredisi, kişisel harcamalar için alınan kısa vadeli kredidir.;Kredi ve Faiz
+54;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+55;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+56;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+57;Fiyat dengesi nasıl oluşur?;Piyasada arz ve talep eşitlendiğinde fiyat dengesi oluşur.;Mikroekonomi
+58;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+59;Faiz oranları neden yükselir?;Faiz oranları enflasyon artışı, döviz kuru baskısı veya sıkı para politikası nedeniyle yükselebilir.;Makroekonomi
+60;Prim nedir?;Prim, sigorta için düzenli olarak ödenen bedeldir.;Sigorta
+61;Kredi kartı limiti nasıl belirlenir?;Kredi kartı limiti, kişinin gelirine ve kredi notuna göre belirlenir.;Bankacılık
+62;GSYH neyi ifade eder?;GSYH, bir ülkede belirli bir dönemde üretilen tüm nihai mal ve hizmetlerin toplam değeridir.;Makroekonomi
+63;Kredi kartı limiti nasıl belirlenir?;Kredi kartı limiti, kişinin gelirine ve kredi notuna göre belirlenir.;Bankacılık
+64;İhtiyaç kredisi nedir?;İhtiyaç kredisi, kişisel harcamalar için alınan kısa vadeli kredidir.;Kredi ve Faiz
+65;Fiyat dengesi nasıl oluşur?;Piyasada arz ve talep eşitlendiğinde fiyat dengesi oluşur.;Mikroekonomi
+66;GSYH neyi ifade eder?;GSYH, bir ülkede belirli bir dönemde üretilen tüm nihai mal ve hizmetlerin toplam değeridir.;Makroekonomi
+67;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+68;Blok zinciri nasıl çalışır?;Blok zinciri, işlemleri doğrulayan ve kaydeden dağıtık bir veri yapısıdır.;Kripto Para
+69;Kredi faizi nasıl hesaplanır?;Kredi faizi, anapara üzerinden belirli bir oranda hesaplanır.;Kredi ve Faiz
+70;Enflasyon nedir?;Enflasyon, genel fiyat seviyesinin zaman içinde sürekli artmasıdır.;Makroekonomi
+71;Arz ve talep nedir?;Arz, satıcıların piyasaya sunduğu miktar;
+72;Tasarruf neden önemlidir?;Tasarruf, gelecekteki harcamalar veya acil durumlar için güvence sağlar.;Finansal Okuryazarlık
+73;Banka kredisi nasıl alınır?;Banka kredisi, başvuru, değerlendirme ve onay süreciyle alınır.;Bankacılık
+74;Enflasyon nedir?;Enflasyon, genel fiyat seviyesinin zaman içinde sürekli artmasıdır.;Makroekonomi
+75;GSYH neyi ifade eder?;GSYH, bir ülkede belirli bir dönemde üretilen tüm nihai mal ve hizmetlerin toplam değeridir.;Makroekonomi
+76;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+77;Tasarruf neden önemlidir?;Tasarruf, gelecekteki harcamalar veya acil durumlar için güvence sağlar.;Finansal Okuryazarlık
+78;Zorunlu trafik sigortası ne işe yarar?;Zorunlu trafik sigortası, kazalarda karşı tarafın zararını karşılar.;Sigorta
+79;Kripto cüzdanı nedir?;Kripto cüzdanı, dijital varlıkları saklamak için kullanılan yazılım veya donanımdır.;Kripto Para
+80;GSYH neyi ifade eder?;GSYH, bir ülkede belirli bir dönemde üretilen tüm nihai mal ve hizmetlerin toplam değeridir.;Makroekonomi
+81;Faiz oranı nedir?;Faiz oranı, borç verilen paranın getirisini ifade eder.;Kredi ve Faiz
+82;Hisse senedi ne işe yarar?;Hisse senedi, bir şirkete ortak olma payını temsil eder.;Yatırım ve Borsa
+83;Banka kredisi nasıl alınır?;Banka kredisi, başvuru, değerlendirme ve onay süreciyle alınır.;Bankacılık
+84;Hisse senedi ne işe yarar?;Hisse senedi, bir şirkete ortak olma payını temsil eder.;Yatırım ve Borsa
+85;Kripto cüzdanı nedir?;Kripto cüzdanı, dijital varlıkları saklamak için kullanılan yazılım veya donanımdır.;Kripto Para
+86;Kredi notu nedir?;Kredi notu, bireyin finansal geçmişine göre belirlenen risk puanıdır.;Finansal Okuryazarlık
+87;Kredi faizi nasıl hesaplanır?;Kredi faizi, anapara üzerinden belirli bir oranda hesaplanır.;Kredi ve Faiz
+88;Kredi faizi nasıl hesaplanır?;Kredi faizi, anapara üzerinden belirli bir oranda hesaplanır.;Kredi ve Faiz
+89;Kredi faizi nasıl hesaplanır?;Kredi faizi, anapara üzerinden belirli bir oranda hesaplanır.;Kredi ve Faiz
+90;Blok zinciri nasıl çalışır?;Blok zinciri, işlemleri doğrulayan ve kaydeden dağıtık bir veri yapısıdır.;Kripto Para
+91;Tasarruf neden önemlidir?;Tasarruf, gelecekteki harcamalar veya acil durumlar için güvence sağlar.;Finansal Okuryazarlık
+92;GSYH neyi ifade eder?;GSYH, bir ülkede belirli bir dönemde üretilen tüm nihai mal ve hizmetlerin toplam değeridir.;Makroekonomi
+93;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+94;Kredi notu nedir?;Kredi notu, bireyin finansal geçmişine göre belirlenen risk puanıdır.;Finansal Okuryazarlık
+95;Bütçe nasıl yapılır?;Gelir ve giderler belirlenip planlı bir şekilde yönetilerek bütçe oluşturulur.;Finansal Okuryazarlık
+96;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+97;Temettü nedir?;Temettü, şirketin kârından hissedarlara dağıtılan paydır.;Yatırım ve Borsa
+98;Hayat sigortası nedir?;Hayat sigortası, vefat veya belirli durumlarda finansal güvence sağlayan poliçedir.;Sigorta
+99;Tasarruf neden önemlidir?;Tasarruf, gelecekteki harcamalar veya acil durumlar için güvence sağlar.;Finansal Okuryazarlık
+100;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+101;Kredi faizi nasıl hesaplanır?;Kredi faizi, anapara üzerinden belirli bir oranda hesaplanır.;Kredi ve Faiz
+102;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+103;Banka kredisi nasıl alınır?;Banka kredisi, başvuru, değerlendirme ve onay süreciyle alınır.;Bankacılık
+104;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+105;Kredi notu nedir?;Kredi notu, bireyin finansal geçmişine göre belirlenen risk puanıdır.;Finansal Okuryazarlık
+106;Fiyat dengesi nasıl oluşur?;Piyasada arz ve talep eşitlendiğinde fiyat dengesi oluşur.;Mikroekonomi
+107;Kredi notu nedir?;Kredi notu, bireyin finansal geçmişine göre belirlenen risk puanıdır.;Finansal Okuryazarlık
+108;Vadeli mevduat nedir?;Vadeli mevduat, belirli bir süre sonunda faiz getirisi sağlayan banka hesabıdır.;Bankacılık
+109;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+110;Tasarruf neden önemlidir?;Tasarruf, gelecekteki harcamalar veya acil durumlar için güvence sağlar.;Finansal Okuryazarlık
+111;Kredi kartı limiti nasıl belirlenir?;Kredi kartı limiti, kişinin gelirine ve kredi notuna göre belirlenir.;Bankacılık
+112;Hayat sigortası nedir?;Hayat sigortası, vefat veya belirli durumlarda finansal güvence sağlayan poliçedir.;Sigorta
+113;Merkez Bankası ne iş yapar?;Merkez Bankası para politikasını belirler ve fiyat istikrarını sağlamaya çalışır.;Makroekonomi
+114;Hisse senedi ne işe yarar?;Hisse senedi, bir şirkete ortak olma payını temsil eder.;Yatırım ve Borsa
+115;Kredi kartı limiti nasıl belirlenir?;Kredi kartı limiti, kişinin gelirine ve kredi notuna göre belirlenir.;Bankacılık
+116;Faiz oranları neden yükselir?;Faiz oranları enflasyon artışı, döviz kuru baskısı veya sıkı para politikası nedeniyle yükselebilir.;Makroekonomi
+117;Bütçe nasıl yapılır?;Gelir ve giderler belirlenip planlı bir şekilde yönetilerek bütçe oluşturulur.;Finansal Okuryazarlık
+118;Vadeli mevduat nedir?;Vadeli mevduat, belirli bir süre sonunda faiz getirisi sağlayan banka hesabıdır.;Bankacılık
+119;Blok zinciri nasıl çalışır?;Blok zinciri, işlemleri doğrulayan ve kaydeden dağıtık bir veri yapısıdır.;Kripto Para
+120;İhtiyaç kredisi nedir?;İhtiyaç kredisi, kişisel harcamalar için alınan kısa vadeli kredidir.;Kredi ve Faiz
+121;Merkez Bankası ne iş yapar?;Merkez Bankası para politikasını belirler ve fiyat istikrarını sağlamaya çalışır.;Makroekonomi
+122;Hayat sigortası nedir?;Hayat sigortası, vefat veya belirli durumlarda finansal güvence sağlayan poliçedir.;Sigorta
+123;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+124;Blok zinciri nasıl çalışır?;Blok zinciri, işlemleri doğrulayan ve kaydeden dağıtık bir veri yapısıdır.;Kripto Para
+125;Kredi notu nedir?;Kredi notu, bireyin finansal geçmişine göre belirlenen risk puanıdır.;Finansal Okuryazarlık
+126;Faiz oranları neden yükselir?;Faiz oranları enflasyon artışı, döviz kuru baskısı veya sıkı para politikası nedeniyle yükselebilir.;Makroekonomi
+127;Kredi notu nedir?;Kredi notu, bireyin finansal geçmişine göre belirlenen risk puanıdır.;Finansal Okuryazarlık
+128;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+129;GSYH neyi ifade eder?;GSYH, bir ülkede belirli bir dönemde üretilen tüm nihai mal ve hizmetlerin toplam değeridir.;Makroekonomi
+130;Arz ve talep nedir?;Arz, satıcıların piyasaya sunduğu miktar;
+131;Fiyat dengesi nasıl oluşur?;Piyasada arz ve talep eşitlendiğinde fiyat dengesi oluşur.;Mikroekonomi
+132;Hisse senedi ne işe yarar?;Hisse senedi, bir şirkete ortak olma payını temsil eder.;Yatırım ve Borsa
+133;İhtiyaç kredisi nedir?;İhtiyaç kredisi, kişisel harcamalar için alınan kısa vadeli kredidir.;Kredi ve Faiz
+134;Vadeli mevduat nedir?;Vadeli mevduat, belirli bir süre sonunda faiz getirisi sağlayan banka hesabıdır.;Bankacılık
+135;Zorunlu trafik sigortası ne işe yarar?;Zorunlu trafik sigortası, kazalarda karşı tarafın zararını karşılar.;Sigorta
+136;Kripto cüzdanı nedir?;Kripto cüzdanı, dijital varlıkları saklamak için kullanılan yazılım veya donanımdır.;Kripto Para
+137;Prim nedir?;Prim, sigorta için düzenli olarak ödenen bedeldir.;Sigorta
+138;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+139;Faiz oranı nedir?;Faiz oranı, borç verilen paranın getirisini ifade eder.;Kredi ve Faiz
+140;Hisse senedi ne işe yarar?;Hisse senedi, bir şirkete ortak olma payını temsil eder.;Yatırım ve Borsa
+141;Kredi faizi nasıl hesaplanır?;Kredi faizi, anapara üzerinden belirli bir oranda hesaplanır.;Kredi ve Faiz
+142;Kripto cüzdanı nedir?;Kripto cüzdanı, dijital varlıkları saklamak için kullanılan yazılım veya donanımdır.;Kripto Para
+143;İhtiyaç kredisi nedir?;İhtiyaç kredisi, kişisel harcamalar için alınan kısa vadeli kredidir.;Kredi ve Faiz
+144;Kredi faizi nasıl hesaplanır?;Kredi faizi, anapara üzerinden belirli bir oranda hesaplanır.;Kredi ve Faiz
+145;Enflasyon nedir?;Enflasyon, genel fiyat seviyesinin zaman içinde sürekli artmasıdır.;Makroekonomi
+146;Merkez Bankası ne iş yapar?;Merkez Bankası para politikasını belirler ve fiyat istikrarını sağlamaya çalışır.;Makroekonomi
+147;Kredi faizi nasıl hesaplanır?;Kredi faizi, anapara üzerinden belirli bir oranda hesaplanır.;Kredi ve Faiz
+148;Tasarruf neden önemlidir?;Tasarruf, gelecekteki harcamalar veya acil durumlar için güvence sağlar.;Finansal Okuryazarlık
+149;Temettü nedir?;Temettü, şirketin kârından hissedarlara dağıtılan paydır.;Yatırım ve Borsa
+150;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+151;Hisse senedi ne işe yarar?;Hisse senedi, bir şirkete ortak olma payını temsil eder.;Yatırım ve Borsa
+152;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+153;Kredi notu nedir?;Kredi notu, bireyin finansal geçmişine göre belirlenen risk puanıdır.;Finansal Okuryazarlık
+154;Merkez Bankası ne iş yapar?;Merkez Bankası para politikasını belirler ve fiyat istikrarını sağlamaya çalışır.;Makroekonomi
+155;Banka kredisi nasıl alınır?;Banka kredisi, başvuru, değerlendirme ve onay süreciyle alınır.;Bankacılık
+156;Arz ve talep nedir?;Arz, satıcıların piyasaya sunduğu miktar;
+157;Banka kredisi nasıl alınır?;Banka kredisi, başvuru, değerlendirme ve onay süreciyle alınır.;Bankacılık
+158;Faiz oranları neden yükselir?;Faiz oranları enflasyon artışı, döviz kuru baskısı veya sıkı para politikası nedeniyle yükselebilir.;Makroekonomi
+159;Kripto cüzdanı nedir?;Kripto cüzdanı, dijital varlıkları saklamak için kullanılan yazılım veya donanımdır.;Kripto Para
+160;Merkez Bankası ne iş yapar?;Merkez Bankası para politikasını belirler ve fiyat istikrarını sağlamaya çalışır.;Makroekonomi
+161;Enflasyon nedir?;Enflasyon, genel fiyat seviyesinin zaman içinde sürekli artmasıdır.;Makroekonomi
+162;Zorunlu trafik sigortası ne işe yarar?;Zorunlu trafik sigortası, kazalarda karşı tarafın zararını karşılar.;Sigorta
+163;Tasarruf neden önemlidir?;Tasarruf, gelecekteki harcamalar veya acil durumlar için güvence sağlar.;Finansal Okuryazarlık
+164;Kripto cüzdanı nedir?;Kripto cüzdanı, dijital varlıkları saklamak için kullanılan yazılım veya donanımdır.;Kripto Para
+165;Faiz oranları neden yükselir?;Faiz oranları enflasyon artışı, döviz kuru baskısı veya sıkı para politikası nedeniyle yükselebilir.;Makroekonomi
+166;Blok zinciri nasıl çalışır?;Blok zinciri, işlemleri doğrulayan ve kaydeden dağıtık bir veri yapısıdır.;Kripto Para
+167;Kripto cüzdanı nedir?;Kripto cüzdanı, dijital varlıkları saklamak için kullanılan yazılım veya donanımdır.;Kripto Para
+168;Hisse senedi ne işe yarar?;Hisse senedi, bir şirkete ortak olma payını temsil eder.;Yatırım ve Borsa
+169;Blok zinciri nasıl çalışır?;Blok zinciri, işlemleri doğrulayan ve kaydeden dağıtık bir veri yapısıdır.;Kripto Para
+170;Arz ve talep nedir?;Arz, satıcıların piyasaya sunduğu miktar;
+171;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+172;Banka kredisi nasıl alınır?;Banka kredisi, başvuru, değerlendirme ve onay süreciyle alınır.;Bankacılık
+173;Arz ve talep nedir?;Arz, satıcıların piyasaya sunduğu miktar;
+174;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+175;Merkez Bankası ne iş yapar?;Merkez Bankası para politikasını belirler ve fiyat istikrarını sağlamaya çalışır.;Makroekonomi
+176;İhtiyaç kredisi nedir?;İhtiyaç kredisi, kişisel harcamalar için alınan kısa vadeli kredidir.;Kredi ve Faiz
+177;Hisse senedi ne işe yarar?;Hisse senedi, bir şirkete ortak olma payını temsil eder.;Yatırım ve Borsa
+178;Vadeli mevduat nedir?;Vadeli mevduat, belirli bir süre sonunda faiz getirisi sağlayan banka hesabıdır.;Bankacılık
+179;Kripto cüzdanı nedir?;Kripto cüzdanı, dijital varlıkları saklamak için kullanılan yazılım veya donanımdır.;Kripto Para
+180;Zorunlu trafik sigortası ne işe yarar?;Zorunlu trafik sigortası, kazalarda karşı tarafın zararını karşılar.;Sigorta
+181;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+182;Enflasyon nedir?;Enflasyon, genel fiyat seviyesinin zaman içinde sürekli artmasıdır.;Makroekonomi
+183;Kredi kartı limiti nasıl belirlenir?;Kredi kartı limiti, kişinin gelirine ve kredi notuna göre belirlenir.;Bankacılık
+184;İhtiyaç kredisi nedir?;İhtiyaç kredisi, kişisel harcamalar için alınan kısa vadeli kredidir.;Kredi ve Faiz
+185;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+186;Zorunlu trafik sigortası ne işe yarar?;Zorunlu trafik sigortası, kazalarda karşı tarafın zararını karşılar.;Sigorta
+187;Prim nedir?;Prim, sigorta için düzenli olarak ödenen bedeldir.;Sigorta
+188;Bütçe nasıl yapılır?;Gelir ve giderler belirlenip planlı bir şekilde yönetilerek bütçe oluşturulur.;Finansal Okuryazarlık
+189;Temettü nedir?;Temettü, şirketin kârından hissedarlara dağıtılan paydır.;Yatırım ve Borsa
+190;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+191;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+192;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+193;Banka kredisi nasıl alınır?;Banka kredisi, başvuru, değerlendirme ve onay süreciyle alınır.;Bankacılık
+194;Blok zinciri nasıl çalışır?;Blok zinciri, işlemleri doğrulayan ve kaydeden dağıtık bir veri yapısıdır.;Kripto Para
+195;Hayat sigortası nedir?;Hayat sigortası, vefat veya belirli durumlarda finansal güvence sağlayan poliçedir.;Sigorta
+196;Merkez Bankası ne iş yapar?;Merkez Bankası para politikasını belirler ve fiyat istikrarını sağlamaya çalışır.;Makroekonomi
+197;Faiz oranı nedir?;Faiz oranı, borç verilen paranın getirisini ifade eder.;Kredi ve Faiz
+198;Fiyat dengesi nasıl oluşur?;Piyasada arz ve talep eşitlendiğinde fiyat dengesi oluşur.;Mikroekonomi
+199;Tasarruf neden önemlidir?;Tasarruf, gelecekteki harcamalar veya acil durumlar için güvence sağlar.;Finansal Okuryazarlık
+200;Faiz oranları neden yükselir?;Faiz oranları enflasyon artışı, döviz kuru baskısı veya sıkı para politikası nedeniyle yükselebilir.;Makroekonomi
+201;Vadeli mevduat nedir?;Vadeli mevduat, belirli bir süre sonunda faiz getirisi sağlayan banka hesabıdır.;Bankacılık
+202;Bütçe nasıl yapılır?;Gelir ve giderler belirlenip planlı bir şekilde yönetilerek bütçe oluşturulur.;Finansal Okuryazarlık
+203;Kredi faizi nasıl hesaplanır?;Kredi faizi, anapara üzerinden belirli bir oranda hesaplanır.;Kredi ve Faiz
+204;Kredi faizi nasıl hesaplanır?;Kredi faizi, anapara üzerinden belirli bir oranda hesaplanır.;Kredi ve Faiz
+205;Kredi faizi nasıl hesaplanır?;Kredi faizi, anapara üzerinden belirli bir oranda hesaplanır.;Kredi ve Faiz
+206;Prim nedir?;Prim, sigorta için düzenli olarak ödenen bedeldir.;Sigorta
+207;Merkez Bankası ne iş yapar?;Merkez Bankası para politikasını belirler ve fiyat istikrarını sağlamaya çalışır.;Makroekonomi
+208;Zorunlu trafik sigortası ne işe yarar?;Zorunlu trafik sigortası, kazalarda karşı tarafın zararını karşılar.;Sigorta
+209;GSYH neyi ifade eder?;GSYH, bir ülkede belirli bir dönemde üretilen tüm nihai mal ve hizmetlerin toplam değeridir.;Makroekonomi
+210;Kredi kartı limiti nasıl belirlenir?;Kredi kartı limiti, kişinin gelirine ve kredi notuna göre belirlenir.;Bankacılık
+211;Bütçe nasıl yapılır?;Gelir ve giderler belirlenip planlı bir şekilde yönetilerek bütçe oluşturulur.;Finansal Okuryazarlık
+212;Kredi faizi nasıl hesaplanır?;Kredi faizi, anapara üzerinden belirli bir oranda hesaplanır.;Kredi ve Faiz
+213;İhtiyaç kredisi nedir?;İhtiyaç kredisi, kişisel harcamalar için alınan kısa vadeli kredidir.;Kredi ve Faiz
+214;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+215;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+216;İhtiyaç kredisi nedir?;İhtiyaç kredisi, kişisel harcamalar için alınan kısa vadeli kredidir.;Kredi ve Faiz
+217;Fiyat dengesi nasıl oluşur?;Piyasada arz ve talep eşitlendiğinde fiyat dengesi oluşur.;Mikroekonomi
+218;Tasarruf neden önemlidir?;Tasarruf, gelecekteki harcamalar veya acil durumlar için güvence sağlar.;Finansal Okuryazarlık
+219;Zorunlu trafik sigortası ne işe yarar?;Zorunlu trafik sigortası, kazalarda karşı tarafın zararını karşılar.;Sigorta
+220;İhtiyaç kredisi nedir?;İhtiyaç kredisi, kişisel harcamalar için alınan kısa vadeli kredidir.;Kredi ve Faiz
+221;Tasarruf neden önemlidir?;Tasarruf, gelecekteki harcamalar veya acil durumlar için güvence sağlar.;Finansal Okuryazarlık
+222;Merkez Bankası ne iş yapar?;Merkez Bankası para politikasını belirler ve fiyat istikrarını sağlamaya çalışır.;Makroekonomi
+223;Arz ve talep nedir?;Arz, satıcıların piyasaya sunduğu miktar;
+224;Fiyat dengesi nasıl oluşur?;Piyasada arz ve talep eşitlendiğinde fiyat dengesi oluşur.;Mikroekonomi
+225;Bütçe nasıl yapılır?;Gelir ve giderler belirlenip planlı bir şekilde yönetilerek bütçe oluşturulur.;Finansal Okuryazarlık
+226;Banka kredisi nasıl alınır?;Banka kredisi, başvuru, değerlendirme ve onay süreciyle alınır.;Bankacılık
+227;Fiyat dengesi nasıl oluşur?;Piyasada arz ve talep eşitlendiğinde fiyat dengesi oluşur.;Mikroekonomi
+228;İhtiyaç kredisi nedir?;İhtiyaç kredisi, kişisel harcamalar için alınan kısa vadeli kredidir.;Kredi ve Faiz
+229;Enflasyon nedir?;Enflasyon, genel fiyat seviyesinin zaman içinde sürekli artmasıdır.;Makroekonomi
+230;Bütçe nasıl yapılır?;Gelir ve giderler belirlenip planlı bir şekilde yönetilerek bütçe oluşturulur.;Finansal Okuryazarlık
+231;Hayat sigortası nedir?;Hayat sigortası, vefat veya belirli durumlarda finansal güvence sağlayan poliçedir.;Sigorta
+232;Prim nedir?;Prim, sigorta için düzenli olarak ödenen bedeldir.;Sigorta
+233;Prim nedir?;Prim, sigorta için düzenli olarak ödenen bedeldir.;Sigorta
+234;Blok zinciri nasıl çalışır?;Blok zinciri, işlemleri doğrulayan ve kaydeden dağıtık bir veri yapısıdır.;Kripto Para
+235;Kredi faizi nasıl hesaplanır?;Kredi faizi, anapara üzerinden belirli bir oranda hesaplanır.;Kredi ve Faiz
+236;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+237;Fiyat dengesi nasıl oluşur?;Piyasada arz ve talep eşitlendiğinde fiyat dengesi oluşur.;Mikroekonomi
+238;Faiz oranı nedir?;Faiz oranı, borç verilen paranın getirisini ifade eder.;Kredi ve Faiz
+239;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+240;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+241;Banka kredisi nasıl alınır?;Banka kredisi, başvuru, değerlendirme ve onay süreciyle alınır.;Bankacılık
+242;Prim nedir?;Prim, sigorta için düzenli olarak ödenen bedeldir.;Sigorta
+243;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+244;Faiz oranları neden yükselir?;Faiz oranları enflasyon artışı, döviz kuru baskısı veya sıkı para politikası nedeniyle yükselebilir.;Makroekonomi
+245;Faiz oranı nedir?;Faiz oranı, borç verilen paranın getirisini ifade eder.;Kredi ve Faiz
+246;Banka kredisi nasıl alınır?;Banka kredisi, başvuru, değerlendirme ve onay süreciyle alınır.;Bankacılık
+247;Bütçe nasıl yapılır?;Gelir ve giderler belirlenip planlı bir şekilde yönetilerek bütçe oluşturulur.;Finansal Okuryazarlık
+248;Vadeli mevduat nedir?;Vadeli mevduat, belirli bir süre sonunda faiz getirisi sağlayan banka hesabıdır.;Bankacılık
+249;Hisse senedi ne işe yarar?;Hisse senedi, bir şirkete ortak olma payını temsil eder.;Yatırım ve Borsa
+250;Faiz oranı nedir?;Faiz oranı, borç verilen paranın getirisini ifade eder.;Kredi ve Faiz
+251;Prim nedir?;Prim, sigorta için düzenli olarak ödenen bedeldir.;Sigorta
+252;Kripto cüzdanı nedir?;Kripto cüzdanı, dijital varlıkları saklamak için kullanılan yazılım veya donanımdır.;Kripto Para
+253;Vadeli mevduat nedir?;Vadeli mevduat, belirli bir süre sonunda faiz getirisi sağlayan banka hesabıdır.;Bankacılık
+254;Prim nedir?;Prim, sigorta için düzenli olarak ödenen bedeldir.;Sigorta
+255;Banka kredisi nasıl alınır?;Banka kredisi, başvuru, değerlendirme ve onay süreciyle alınır.;Bankacılık
+256;Tasarruf neden önemlidir?;Tasarruf, gelecekteki harcamalar veya acil durumlar için güvence sağlar.;Finansal Okuryazarlık
+257;Prim nedir?;Prim, sigorta için düzenli olarak ödenen bedeldir.;Sigorta
+258;Faiz oranları neden yükselir?;Faiz oranları enflasyon artışı, döviz kuru baskısı veya sıkı para politikası nedeniyle yükselebilir.;Makroekonomi
+259;Zorunlu trafik sigortası ne işe yarar?;Zorunlu trafik sigortası, kazalarda karşı tarafın zararını karşılar.;Sigorta
+260;Tasarruf neden önemlidir?;Tasarruf, gelecekteki harcamalar veya acil durumlar için güvence sağlar.;Finansal Okuryazarlık
+261;Faiz oranı nedir?;Faiz oranı, borç verilen paranın getirisini ifade eder.;Kredi ve Faiz
+262;Tasarruf neden önemlidir?;Tasarruf, gelecekteki harcamalar veya acil durumlar için güvence sağlar.;Finansal Okuryazarlık
+263;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+264;Kredi kartı limiti nasıl belirlenir?;Kredi kartı limiti, kişinin gelirine ve kredi notuna göre belirlenir.;Bankacılık
+265;Fiyat dengesi nasıl oluşur?;Piyasada arz ve talep eşitlendiğinde fiyat dengesi oluşur.;Mikroekonomi
+266;Bütçe nasıl yapılır?;Gelir ve giderler belirlenip planlı bir şekilde yönetilerek bütçe oluşturulur.;Finansal Okuryazarlık
+267;Zorunlu trafik sigortası ne işe yarar?;Zorunlu trafik sigortası, kazalarda karşı tarafın zararını karşılar.;Sigorta
+268;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+269;Blok zinciri nasıl çalışır?;Blok zinciri, işlemleri doğrulayan ve kaydeden dağıtık bir veri yapısıdır.;Kripto Para
+270;Kripto cüzdanı nedir?;Kripto cüzdanı, dijital varlıkları saklamak için kullanılan yazılım veya donanımdır.;Kripto Para
+271;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+272;Bütçe nasıl yapılır?;Gelir ve giderler belirlenip planlı bir şekilde yönetilerek bütçe oluşturulur.;Finansal Okuryazarlık
+273;Fiyat dengesi nasıl oluşur?;Piyasada arz ve talep eşitlendiğinde fiyat dengesi oluşur.;Mikroekonomi
+274;Banka kredisi nasıl alınır?;Banka kredisi, başvuru, değerlendirme ve onay süreciyle alınır.;Bankacılık
+275;Fiyat dengesi nasıl oluşur?;Piyasada arz ve talep eşitlendiğinde fiyat dengesi oluşur.;Mikroekonomi
+276;Blok zinciri nasıl çalışır?;Blok zinciri, işlemleri doğrulayan ve kaydeden dağıtık bir veri yapısıdır.;Kripto Para
+277;Blok zinciri nasıl çalışır?;Blok zinciri, işlemleri doğrulayan ve kaydeden dağıtık bir veri yapısıdır.;Kripto Para
+278;Kredi notu nedir?;Kredi notu, bireyin finansal geçmişine göre belirlenen risk puanıdır.;Finansal Okuryazarlık
+279;Hayat sigortası nedir?;Hayat sigortası, vefat veya belirli durumlarda finansal güvence sağlayan poliçedir.;Sigorta
+280;Tasarruf neden önemlidir?;Tasarruf, gelecekteki harcamalar veya acil durumlar için güvence sağlar.;Finansal Okuryazarlık
+281;Kredi notu nedir?;Kredi notu, bireyin finansal geçmişine göre belirlenen risk puanıdır.;Finansal Okuryazarlık
+282;Vadeli mevduat nedir?;Vadeli mevduat, belirli bir süre sonunda faiz getirisi sağlayan banka hesabıdır.;Bankacılık
+283;Faiz oranı nedir?;Faiz oranı, borç verilen paranın getirisini ifade eder.;Kredi ve Faiz
+284;Blok zinciri nasıl çalışır?;Blok zinciri, işlemleri doğrulayan ve kaydeden dağıtık bir veri yapısıdır.;Kripto Para
+285;Faiz oranı nedir?;Faiz oranı, borç verilen paranın getirisini ifade eder.;Kredi ve Faiz
+286;Zorunlu trafik sigortası ne işe yarar?;Zorunlu trafik sigortası, kazalarda karşı tarafın zararını karşılar.;Sigorta
+287;Bütçe nasıl yapılır?;Gelir ve giderler belirlenip planlı bir şekilde yönetilerek bütçe oluşturulur.;Finansal Okuryazarlık
+288;Kredi kartı limiti nasıl belirlenir?;Kredi kartı limiti, kişinin gelirine ve kredi notuna göre belirlenir.;Bankacılık
+289;Prim nedir?;Prim, sigorta için düzenli olarak ödenen bedeldir.;Sigorta
+290;Enflasyon nedir?;Enflasyon, genel fiyat seviyesinin zaman içinde sürekli artmasıdır.;Makroekonomi
+291;Merkez Bankası ne iş yapar?;Merkez Bankası para politikasını belirler ve fiyat istikrarını sağlamaya çalışır.;Makroekonomi
+292;Tasarruf neden önemlidir?;Tasarruf, gelecekteki harcamalar veya acil durumlar için güvence sağlar.;Finansal Okuryazarlık
+293;Kripto cüzdanı nedir?;Kripto cüzdanı, dijital varlıkları saklamak için kullanılan yazılım veya donanımdır.;Kripto Para
+294;Kredi kartı limiti nasıl belirlenir?;Kredi kartı limiti, kişinin gelirine ve kredi notuna göre belirlenir.;Bankacılık
+295;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+296;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+297;Zorunlu trafik sigortası ne işe yarar?;Zorunlu trafik sigortası, kazalarda karşı tarafın zararını karşılar.;Sigorta
+298;Zorunlu trafik sigortası ne işe yarar?;Zorunlu trafik sigortası, kazalarda karşı tarafın zararını karşılar.;Sigorta
+299;Faiz oranı nedir?;Faiz oranı, borç verilen paranın getirisini ifade eder.;Kredi ve Faiz
+300;Kripto cüzdanı nedir?;Kripto cüzdanı, dijital varlıkları saklamak için kullanılan yazılım veya donanımdır.;Kripto Para
+301;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+302;Fiyat dengesi nasıl oluşur?;Piyasada arz ve talep eşitlendiğinde fiyat dengesi oluşur.;Mikroekonomi
+303;İhtiyaç kredisi nedir?;İhtiyaç kredisi, kişisel harcamalar için alınan kısa vadeli kredidir.;Kredi ve Faiz
+304;GSYH neyi ifade eder?;GSYH, bir ülkede belirli bir dönemde üretilen tüm nihai mal ve hizmetlerin toplam değeridir.;Makroekonomi
+305;Bütçe nasıl yapılır?;Gelir ve giderler belirlenip planlı bir şekilde yönetilerek bütçe oluşturulur.;Finansal Okuryazarlık
+306;Zorunlu trafik sigortası ne işe yarar?;Zorunlu trafik sigortası, kazalarda karşı tarafın zararını karşılar.;Sigorta
+307;GSYH neyi ifade eder?;GSYH, bir ülkede belirli bir dönemde üretilen tüm nihai mal ve hizmetlerin toplam değeridir.;Makroekonomi
+308;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+309;Banka kredisi nasıl alınır?;Banka kredisi, başvuru, değerlendirme ve onay süreciyle alınır.;Bankacılık
+310;Kredi faizi nasıl hesaplanır?;Kredi faizi, anapara üzerinden belirli bir oranda hesaplanır.;Kredi ve Faiz
+311;Temettü nedir?;Temettü, şirketin kârından hissedarlara dağıtılan paydır.;Yatırım ve Borsa
+312;Zorunlu trafik sigortası ne işe yarar?;Zorunlu trafik sigortası, kazalarda karşı tarafın zararını karşılar.;Sigorta
+313;İhtiyaç kredisi nedir?;İhtiyaç kredisi, kişisel harcamalar için alınan kısa vadeli kredidir.;Kredi ve Faiz
+314;Kredi kartı limiti nasıl belirlenir?;Kredi kartı limiti, kişinin gelirine ve kredi notuna göre belirlenir.;Bankacılık
+315;Kripto cüzdanı nedir?;Kripto cüzdanı, dijital varlıkları saklamak için kullanılan yazılım veya donanımdır.;Kripto Para
+316;Tasarruf neden önemlidir?;Tasarruf, gelecekteki harcamalar veya acil durumlar için güvence sağlar.;Finansal Okuryazarlık
+317;İhtiyaç kredisi nedir?;İhtiyaç kredisi, kişisel harcamalar için alınan kısa vadeli kredidir.;Kredi ve Faiz
+318;Faiz oranı nedir?;Faiz oranı, borç verilen paranın getirisini ifade eder.;Kredi ve Faiz
+319;Kredi faizi nasıl hesaplanır?;Kredi faizi, anapara üzerinden belirli bir oranda hesaplanır.;Kredi ve Faiz
+320;Zorunlu trafik sigortası ne işe yarar?;Zorunlu trafik sigortası, kazalarda karşı tarafın zararını karşılar.;Sigorta
+321;Prim nedir?;Prim, sigorta için düzenli olarak ödenen bedeldir.;Sigorta
+322;Kripto cüzdanı nedir?;Kripto cüzdanı, dijital varlıkları saklamak için kullanılan yazılım veya donanımdır.;Kripto Para
+323;Banka kredisi nasıl alınır?;Banka kredisi, başvuru, değerlendirme ve onay süreciyle alınır.;Bankacılık
+324;GSYH neyi ifade eder?;GSYH, bir ülkede belirli bir dönemde üretilen tüm nihai mal ve hizmetlerin toplam değeridir.;Makroekonomi
+325;Banka kredisi nasıl alınır?;Banka kredisi, başvuru, değerlendirme ve onay süreciyle alınır.;Bankacılık
+326;Kredi faizi nasıl hesaplanır?;Kredi faizi, anapara üzerinden belirli bir oranda hesaplanır.;Kredi ve Faiz
+327;Vadeli mevduat nedir?;Vadeli mevduat, belirli bir süre sonunda faiz getirisi sağlayan banka hesabıdır.;Bankacılık
+328;Bütçe nasıl yapılır?;Gelir ve giderler belirlenip planlı bir şekilde yönetilerek bütçe oluşturulur.;Finansal Okuryazarlık
+329;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+330;Zorunlu trafik sigortası ne işe yarar?;Zorunlu trafik sigortası, kazalarda karşı tarafın zararını karşılar.;Sigorta
+331;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+332;Kredi notu nedir?;Kredi notu, bireyin finansal geçmişine göre belirlenen risk puanıdır.;Finansal Okuryazarlık
+333;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+334;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+335;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+336;Zorunlu trafik sigortası ne işe yarar?;Zorunlu trafik sigortası, kazalarda karşı tarafın zararını karşılar.;Sigorta
+337;Blok zinciri nasıl çalışır?;Blok zinciri, işlemleri doğrulayan ve kaydeden dağıtık bir veri yapısıdır.;Kripto Para
+338;Zorunlu trafik sigortası ne işe yarar?;Zorunlu trafik sigortası, kazalarda karşı tarafın zararını karşılar.;Sigorta
+339;Hayat sigortası nedir?;Hayat sigortası, vefat veya belirli durumlarda finansal güvence sağlayan poliçedir.;Sigorta
+340;Tasarruf neden önemlidir?;Tasarruf, gelecekteki harcamalar veya acil durumlar için güvence sağlar.;Finansal Okuryazarlık
+341;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+342;Faiz oranı nedir?;Faiz oranı, borç verilen paranın getirisini ifade eder.;Kredi ve Faiz
+343;Temettü nedir?;Temettü, şirketin kârından hissedarlara dağıtılan paydır.;Yatırım ve Borsa
+344;Hayat sigortası nedir?;Hayat sigortası, vefat veya belirli durumlarda finansal güvence sağlayan poliçedir.;Sigorta
+345;Kredi faizi nasıl hesaplanır?;Kredi faizi, anapara üzerinden belirli bir oranda hesaplanır.;Kredi ve Faiz
+346;Hisse senedi ne işe yarar?;Hisse senedi, bir şirkete ortak olma payını temsil eder.;Yatırım ve Borsa
+347;Faiz oranı nedir?;Faiz oranı, borç verilen paranın getirisini ifade eder.;Kredi ve Faiz
+348;İhtiyaç kredisi nedir?;İhtiyaç kredisi, kişisel harcamalar için alınan kısa vadeli kredidir.;Kredi ve Faiz
+349;Faiz oranı nedir?;Faiz oranı, borç verilen paranın getirisini ifade eder.;Kredi ve Faiz
+350;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+351;Bütçe nasıl yapılır?;Gelir ve giderler belirlenip planlı bir şekilde yönetilerek bütçe oluşturulur.;Finansal Okuryazarlık
+352;Zorunlu trafik sigortası ne işe yarar?;Zorunlu trafik sigortası, kazalarda karşı tarafın zararını karşılar.;Sigorta
+353;Kripto cüzdanı nedir?;Kripto cüzdanı, dijital varlıkları saklamak için kullanılan yazılım veya donanımdır.;Kripto Para
+354;Kredi notu nedir?;Kredi notu, bireyin finansal geçmişine göre belirlenen risk puanıdır.;Finansal Okuryazarlık
+355;Hayat sigortası nedir?;Hayat sigortası, vefat veya belirli durumlarda finansal güvence sağlayan poliçedir.;Sigorta
+356;Hayat sigortası nedir?;Hayat sigortası, vefat veya belirli durumlarda finansal güvence sağlayan poliçedir.;Sigorta
+357;Arz ve talep nedir?;Arz, satıcıların piyasaya sunduğu miktar;
+358;Enflasyon nedir?;Enflasyon, genel fiyat seviyesinin zaman içinde sürekli artmasıdır.;Makroekonomi
+359;Kredi kartı limiti nasıl belirlenir?;Kredi kartı limiti, kişinin gelirine ve kredi notuna göre belirlenir.;Bankacılık
+360;Prim nedir?;Prim, sigorta için düzenli olarak ödenen bedeldir.;Sigorta
+361;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+362;Kredi notu nedir?;Kredi notu, bireyin finansal geçmişine göre belirlenen risk puanıdır.;Finansal Okuryazarlık
+363;Hayat sigortası nedir?;Hayat sigortası, vefat veya belirli durumlarda finansal güvence sağlayan poliçedir.;Sigorta
+364;Blok zinciri nasıl çalışır?;Blok zinciri, işlemleri doğrulayan ve kaydeden dağıtık bir veri yapısıdır.;Kripto Para
+365;Zorunlu trafik sigortası ne işe yarar?;Zorunlu trafik sigortası, kazalarda karşı tarafın zararını karşılar.;Sigorta
+366;Fiyat dengesi nasıl oluşur?;Piyasada arz ve talep eşitlendiğinde fiyat dengesi oluşur.;Mikroekonomi
+367;Faiz oranı nedir?;Faiz oranı, borç verilen paranın getirisini ifade eder.;Kredi ve Faiz
+368;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+369;Fiyat dengesi nasıl oluşur?;Piyasada arz ve talep eşitlendiğinde fiyat dengesi oluşur.;Mikroekonomi
+370;Banka kredisi nasıl alınır?;Banka kredisi, başvuru, değerlendirme ve onay süreciyle alınır.;Bankacılık
+371;Bütçe nasıl yapılır?;Gelir ve giderler belirlenip planlı bir şekilde yönetilerek bütçe oluşturulur.;Finansal Okuryazarlık
+372;Vadeli mevduat nedir?;Vadeli mevduat, belirli bir süre sonunda faiz getirisi sağlayan banka hesabıdır.;Bankacılık
+373;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+374;Temettü nedir?;Temettü, şirketin kârından hissedarlara dağıtılan paydır.;Yatırım ve Borsa
+375;Hisse senedi ne işe yarar?;Hisse senedi, bir şirkete ortak olma payını temsil eder.;Yatırım ve Borsa
+376;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+377;Blok zinciri nasıl çalışır?;Blok zinciri, işlemleri doğrulayan ve kaydeden dağıtık bir veri yapısıdır.;Kripto Para
+378;Kredi kartı limiti nasıl belirlenir?;Kredi kartı limiti, kişinin gelirine ve kredi notuna göre belirlenir.;Bankacılık
+379;Arz ve talep nedir?;Arz, satıcıların piyasaya sunduğu miktar;
+380;Kredi notu nedir?;Kredi notu, bireyin finansal geçmişine göre belirlenen risk puanıdır.;Finansal Okuryazarlık
+381;Kripto cüzdanı nedir?;Kripto cüzdanı, dijital varlıkları saklamak için kullanılan yazılım veya donanımdır.;Kripto Para
+382;Hayat sigortası nedir?;Hayat sigortası, vefat veya belirli durumlarda finansal güvence sağlayan poliçedir.;Sigorta
+383;Prim nedir?;Prim, sigorta için düzenli olarak ödenen bedeldir.;Sigorta
+384;Prim nedir?;Prim, sigorta için düzenli olarak ödenen bedeldir.;Sigorta
+385;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+386;GSYH neyi ifade eder?;GSYH, bir ülkede belirli bir dönemde üretilen tüm nihai mal ve hizmetlerin toplam değeridir.;Makroekonomi
+387;Temettü nedir?;Temettü, şirketin kârından hissedarlara dağıtılan paydır.;Yatırım ve Borsa
+388;Zorunlu trafik sigortası ne işe yarar?;Zorunlu trafik sigortası, kazalarda karşı tarafın zararını karşılar.;Sigorta
+389;Kredi kartı limiti nasıl belirlenir?;Kredi kartı limiti, kişinin gelirine ve kredi notuna göre belirlenir.;Bankacılık
+390;Prim nedir?;Prim, sigorta için düzenli olarak ödenen bedeldir.;Sigorta
+391;GSYH neyi ifade eder?;GSYH, bir ülkede belirli bir dönemde üretilen tüm nihai mal ve hizmetlerin toplam değeridir.;Makroekonomi
+392;Fiyat dengesi nasıl oluşur?;Piyasada arz ve talep eşitlendiğinde fiyat dengesi oluşur.;Mikroekonomi
+393;Bütçe nasıl yapılır?;Gelir ve giderler belirlenip planlı bir şekilde yönetilerek bütçe oluşturulur.;Finansal Okuryazarlık
+394;Hayat sigortası nedir?;Hayat sigortası, vefat veya belirli durumlarda finansal güvence sağlayan poliçedir.;Sigorta
+395;Enflasyon nedir?;Enflasyon, genel fiyat seviyesinin zaman içinde sürekli artmasıdır.;Makroekonomi
+396;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+397;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+398;GSYH neyi ifade eder?;GSYH, bir ülkede belirli bir dönemde üretilen tüm nihai mal ve hizmetlerin toplam değeridir.;Makroekonomi
+399;Arz ve talep nedir?;Arz, satıcıların piyasaya sunduğu miktar;
+400;Fiyat dengesi nasıl oluşur?;Piyasada arz ve talep eşitlendiğinde fiyat dengesi oluşur.;Mikroekonomi
+401;Temettü nedir?;Temettü, şirketin kârından hissedarlara dağıtılan paydır.;Yatırım ve Borsa
+402;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+403;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+404;Hayat sigortası nedir?;Hayat sigortası, vefat veya belirli durumlarda finansal güvence sağlayan poliçedir.;Sigorta
+405;İhtiyaç kredisi nedir?;İhtiyaç kredisi, kişisel harcamalar için alınan kısa vadeli kredidir.;Kredi ve Faiz
+406;Prim nedir?;Prim, sigorta için düzenli olarak ödenen bedeldir.;Sigorta
+407;Arz ve talep nedir?;Arz, satıcıların piyasaya sunduğu miktar;
+408;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+409;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+410;Fiyat dengesi nasıl oluşur?;Piyasada arz ve talep eşitlendiğinde fiyat dengesi oluşur.;Mikroekonomi
+411;Faiz oranları neden yükselir?;Faiz oranları enflasyon artışı, döviz kuru baskısı veya sıkı para politikası nedeniyle yükselebilir.;Makroekonomi
+412;Kripto cüzdanı nedir?;Kripto cüzdanı, dijital varlıkları saklamak için kullanılan yazılım veya donanımdır.;Kripto Para
+413;Banka kredisi nasıl alınır?;Banka kredisi, başvuru, değerlendirme ve onay süreciyle alınır.;Bankacılık
+414;Kredi notu nedir?;Kredi notu, bireyin finansal geçmişine göre belirlenen risk puanıdır.;Finansal Okuryazarlık
+415;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+416;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+417;Bütçe nasıl yapılır?;Gelir ve giderler belirlenip planlı bir şekilde yönetilerek bütçe oluşturulur.;Finansal Okuryazarlık
+418;Merkez Bankası ne iş yapar?;Merkez Bankası para politikasını belirler ve fiyat istikrarını sağlamaya çalışır.;Makroekonomi
+419;GSYH neyi ifade eder?;GSYH, bir ülkede belirli bir dönemde üretilen tüm nihai mal ve hizmetlerin toplam değeridir.;Makroekonomi
+420;Prim nedir?;Prim, sigorta için düzenli olarak ödenen bedeldir.;Sigorta
+421;Prim nedir?;Prim, sigorta için düzenli olarak ödenen bedeldir.;Sigorta
+422;Faiz oranları neden yükselir?;Faiz oranları enflasyon artışı, döviz kuru baskısı veya sıkı para politikası nedeniyle yükselebilir.;Makroekonomi
+423;Kripto cüzdanı nedir?;Kripto cüzdanı, dijital varlıkları saklamak için kullanılan yazılım veya donanımdır.;Kripto Para
+424;Prim nedir?;Prim, sigorta için düzenli olarak ödenen bedeldir.;Sigorta
+425;Tasarruf neden önemlidir?;Tasarruf, gelecekteki harcamalar veya acil durumlar için güvence sağlar.;Finansal Okuryazarlık
+426;Zorunlu trafik sigortası ne işe yarar?;Zorunlu trafik sigortası, kazalarda karşı tarafın zararını karşılar.;Sigorta
+427;Kredi kartı limiti nasıl belirlenir?;Kredi kartı limiti, kişinin gelirine ve kredi notuna göre belirlenir.;Bankacılık
+428;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+429;Hayat sigortası nedir?;Hayat sigortası, vefat veya belirli durumlarda finansal güvence sağlayan poliçedir.;Sigorta
+430;Fiyat dengesi nasıl oluşur?;Piyasada arz ve talep eşitlendiğinde fiyat dengesi oluşur.;Mikroekonomi
+431;Kredi faizi nasıl hesaplanır?;Kredi faizi, anapara üzerinden belirli bir oranda hesaplanır.;Kredi ve Faiz
+432;Kredi faizi nasıl hesaplanır?;Kredi faizi, anapara üzerinden belirli bir oranda hesaplanır.;Kredi ve Faiz
+433;Arz ve talep nedir?;Arz, satıcıların piyasaya sunduğu miktar;
+434;Arz ve talep nedir?;Arz, satıcıların piyasaya sunduğu miktar;
+435;Banka kredisi nasıl alınır?;Banka kredisi, başvuru, değerlendirme ve onay süreciyle alınır.;Bankacılık
+436;Arz ve talep nedir?;Arz, satıcıların piyasaya sunduğu miktar;
+437;Faiz oranları neden yükselir?;Faiz oranları enflasyon artışı, döviz kuru baskısı veya sıkı para politikası nedeniyle yükselebilir.;Makroekonomi
+438;Faiz oranları neden yükselir?;Faiz oranları enflasyon artışı, döviz kuru baskısı veya sıkı para politikası nedeniyle yükselebilir.;Makroekonomi
+439;Tasarruf neden önemlidir?;Tasarruf, gelecekteki harcamalar veya acil durumlar için güvence sağlar.;Finansal Okuryazarlık
+440;Faiz oranları neden yükselir?;Faiz oranları enflasyon artışı, döviz kuru baskısı veya sıkı para politikası nedeniyle yükselebilir.;Makroekonomi
+441;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+442;Fiyat dengesi nasıl oluşur?;Piyasada arz ve talep eşitlendiğinde fiyat dengesi oluşur.;Mikroekonomi
+443;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+444;Blok zinciri nasıl çalışır?;Blok zinciri, işlemleri doğrulayan ve kaydeden dağıtık bir veri yapısıdır.;Kripto Para
+445;Fiyat dengesi nasıl oluşur?;Piyasada arz ve talep eşitlendiğinde fiyat dengesi oluşur.;Mikroekonomi
+446;Hisse senedi ne işe yarar?;Hisse senedi, bir şirkete ortak olma payını temsil eder.;Yatırım ve Borsa
+447;Banka kredisi nasıl alınır?;Banka kredisi, başvuru, değerlendirme ve onay süreciyle alınır.;Bankacılık
+448;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+449;Tasarruf neden önemlidir?;Tasarruf, gelecekteki harcamalar veya acil durumlar için güvence sağlar.;Finansal Okuryazarlık
+450;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+451;Faiz oranı nedir?;Faiz oranı, borç verilen paranın getirisini ifade eder.;Kredi ve Faiz
+452;Hayat sigortası nedir?;Hayat sigortası, vefat veya belirli durumlarda finansal güvence sağlayan poliçedir.;Sigorta
+453;İhtiyaç kredisi nedir?;İhtiyaç kredisi, kişisel harcamalar için alınan kısa vadeli kredidir.;Kredi ve Faiz
+454;Temettü nedir?;Temettü, şirketin kârından hissedarlara dağıtılan paydır.;Yatırım ve Borsa
+455;Hayat sigortası nedir?;Hayat sigortası, vefat veya belirli durumlarda finansal güvence sağlayan poliçedir.;Sigorta
+456;Banka kredisi nasıl alınır?;Banka kredisi, başvuru, değerlendirme ve onay süreciyle alınır.;Bankacılık
+457;Arz ve talep nedir?;Arz, satıcıların piyasaya sunduğu miktar;
+458;Kredi notu nedir?;Kredi notu, bireyin finansal geçmişine göre belirlenen risk puanıdır.;Finansal Okuryazarlık
+459;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+460;Merkez Bankası ne iş yapar?;Merkez Bankası para politikasını belirler ve fiyat istikrarını sağlamaya çalışır.;Makroekonomi
+461;Tasarruf neden önemlidir?;Tasarruf, gelecekteki harcamalar veya acil durumlar için güvence sağlar.;Finansal Okuryazarlık
+462;Banka kredisi nasıl alınır?;Banka kredisi, başvuru, değerlendirme ve onay süreciyle alınır.;Bankacılık
+463;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+464;Tasarruf neden önemlidir?;Tasarruf, gelecekteki harcamalar veya acil durumlar için güvence sağlar.;Finansal Okuryazarlık
+465;Prim nedir?;Prim, sigorta için düzenli olarak ödenen bedeldir.;Sigorta
+466;Banka kredisi nasıl alınır?;Banka kredisi, başvuru, değerlendirme ve onay süreciyle alınır.;Bankacılık
+467;Banka kredisi nasıl alınır?;Banka kredisi, başvuru, değerlendirme ve onay süreciyle alınır.;Bankacılık
+468;Zorunlu trafik sigortası ne işe yarar?;Zorunlu trafik sigortası, kazalarda karşı tarafın zararını karşılar.;Sigorta
+469;Arz ve talep nedir?;Arz, satıcıların piyasaya sunduğu miktar;
+470;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+471;GSYH neyi ifade eder?;GSYH, bir ülkede belirli bir dönemde üretilen tüm nihai mal ve hizmetlerin toplam değeridir.;Makroekonomi
+472;Kredi faizi nasıl hesaplanır?;Kredi faizi, anapara üzerinden belirli bir oranda hesaplanır.;Kredi ve Faiz
+473;Enflasyon nedir?;Enflasyon, genel fiyat seviyesinin zaman içinde sürekli artmasıdır.;Makroekonomi
+474;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+475;Fiyat dengesi nasıl oluşur?;Piyasada arz ve talep eşitlendiğinde fiyat dengesi oluşur.;Mikroekonomi
+476;İhtiyaç kredisi nedir?;İhtiyaç kredisi, kişisel harcamalar için alınan kısa vadeli kredidir.;Kredi ve Faiz
+477;Vadeli mevduat nedir?;Vadeli mevduat, belirli bir süre sonunda faiz getirisi sağlayan banka hesabıdır.;Bankacılık
+478;Tasarruf neden önemlidir?;Tasarruf, gelecekteki harcamalar veya acil durumlar için güvence sağlar.;Finansal Okuryazarlık
+479;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+480;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+481;Tasarruf neden önemlidir?;Tasarruf, gelecekteki harcamalar veya acil durumlar için güvence sağlar.;Finansal Okuryazarlık
+482;İhtiyaç kredisi nedir?;İhtiyaç kredisi, kişisel harcamalar için alınan kısa vadeli kredidir.;Kredi ve Faiz
+483;Merkez Bankası ne iş yapar?;Merkez Bankası para politikasını belirler ve fiyat istikrarını sağlamaya çalışır.;Makroekonomi
+484;Faiz oranı nedir?;Faiz oranı, borç verilen paranın getirisini ifade eder.;Kredi ve Faiz
+485;Kredi faizi nasıl hesaplanır?;Kredi faizi, anapara üzerinden belirli bir oranda hesaplanır.;Kredi ve Faiz
+486;Merkez Bankası ne iş yapar?;Merkez Bankası para politikasını belirler ve fiyat istikrarını sağlamaya çalışır.;Makroekonomi
+487;Banka kredisi nasıl alınır?;Banka kredisi, başvuru, değerlendirme ve onay süreciyle alınır.;Bankacılık
+488;Fiyat dengesi nasıl oluşur?;Piyasada arz ve talep eşitlendiğinde fiyat dengesi oluşur.;Mikroekonomi
+489;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+490;Enflasyon nedir?;Enflasyon, genel fiyat seviyesinin zaman içinde sürekli artmasıdır.;Makroekonomi
+491;Arz ve talep nedir?;Arz, satıcıların piyasaya sunduğu miktar;
+492;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+493;Kredi notu nedir?;Kredi notu, bireyin finansal geçmişine göre belirlenen risk puanıdır.;Finansal Okuryazarlık
+494;Kredi notu nedir?;Kredi notu, bireyin finansal geçmişine göre belirlenen risk puanıdır.;Finansal Okuryazarlık
+495;Vadeli mevduat nedir?;Vadeli mevduat, belirli bir süre sonunda faiz getirisi sağlayan banka hesabıdır.;Bankacılık
+496;Blok zinciri nasıl çalışır?;Blok zinciri, işlemleri doğrulayan ve kaydeden dağıtık bir veri yapısıdır.;Kripto Para
+497;Faiz oranı nedir?;Faiz oranı, borç verilen paranın getirisini ifade eder.;Kredi ve Faiz
+498;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+499;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+500;İhtiyaç kredisi nedir?;İhtiyaç kredisi, kişisel harcamalar için alınan kısa vadeli kredidir.;Kredi ve Faiz
+501;Arz ve talep nedir?;Arz, satıcıların piyasaya sunduğu miktar;
+502;Fiyat dengesi nasıl oluşur?;Piyasada arz ve talep eşitlendiğinde fiyat dengesi oluşur.;Mikroekonomi
+503;Blok zinciri nasıl çalışır?;Blok zinciri, işlemleri doğrulayan ve kaydeden dağıtık bir veri yapısıdır.;Kripto Para
+504;Bütçe nasıl yapılır?;Gelir ve giderler belirlenip planlı bir şekilde yönetilerek bütçe oluşturulur.;Finansal Okuryazarlık
+505;Temettü nedir?;Temettü, şirketin kârından hissedarlara dağıtılan paydır.;Yatırım ve Borsa
+506;Hisse senedi ne işe yarar?;Hisse senedi, bir şirkete ortak olma payını temsil eder.;Yatırım ve Borsa
+507;Merkez Bankası ne iş yapar?;Merkez Bankası para politikasını belirler ve fiyat istikrarını sağlamaya çalışır.;Makroekonomi
+508;Arz ve talep nedir?;Arz, satıcıların piyasaya sunduğu miktar;
+509;Prim nedir?;Prim, sigorta için düzenli olarak ödenen bedeldir.;Sigorta
+510;Temettü nedir?;Temettü, şirketin kârından hissedarlara dağıtılan paydır.;Yatırım ve Borsa
+511;Temettü nedir?;Temettü, şirketin kârından hissedarlara dağıtılan paydır.;Yatırım ve Borsa
+512;Prim nedir?;Prim, sigorta için düzenli olarak ödenen bedeldir.;Sigorta
+513;Arz ve talep nedir?;Arz, satıcıların piyasaya sunduğu miktar;
+514;Banka kredisi nasıl alınır?;Banka kredisi, başvuru, değerlendirme ve onay süreciyle alınır.;Bankacılık
+515;Vadeli mevduat nedir?;Vadeli mevduat, belirli bir süre sonunda faiz getirisi sağlayan banka hesabıdır.;Bankacılık
+516;Enflasyon nedir?;Enflasyon, genel fiyat seviyesinin zaman içinde sürekli artmasıdır.;Makroekonomi
+517;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+518;Prim nedir?;Prim, sigorta için düzenli olarak ödenen bedeldir.;Sigorta
+519;Temettü nedir?;Temettü, şirketin kârından hissedarlara dağıtılan paydır.;Yatırım ve Borsa
+520;Tasarruf neden önemlidir?;Tasarruf, gelecekteki harcamalar veya acil durumlar için güvence sağlar.;Finansal Okuryazarlık
+521;Enflasyon nedir?;Enflasyon, genel fiyat seviyesinin zaman içinde sürekli artmasıdır.;Makroekonomi
+522;Prim nedir?;Prim, sigorta için düzenli olarak ödenen bedeldir.;Sigorta
+523;İhtiyaç kredisi nedir?;İhtiyaç kredisi, kişisel harcamalar için alınan kısa vadeli kredidir.;Kredi ve Faiz
+524;Blok zinciri nasıl çalışır?;Blok zinciri, işlemleri doğrulayan ve kaydeden dağıtık bir veri yapısıdır.;Kripto Para
+525;Kredi kartı limiti nasıl belirlenir?;Kredi kartı limiti, kişinin gelirine ve kredi notuna göre belirlenir.;Bankacılık
+526;Kredi faizi nasıl hesaplanır?;Kredi faizi, anapara üzerinden belirli bir oranda hesaplanır.;Kredi ve Faiz
+527;Zorunlu trafik sigortası ne işe yarar?;Zorunlu trafik sigortası, kazalarda karşı tarafın zararını karşılar.;Sigorta
+528;GSYH neyi ifade eder?;GSYH, bir ülkede belirli bir dönemde üretilen tüm nihai mal ve hizmetlerin toplam değeridir.;Makroekonomi
+529;Blok zinciri nasıl çalışır?;Blok zinciri, işlemleri doğrulayan ve kaydeden dağıtık bir veri yapısıdır.;Kripto Para
+530;Kripto cüzdanı nedir?;Kripto cüzdanı, dijital varlıkları saklamak için kullanılan yazılım veya donanımdır.;Kripto Para
+531;Hayat sigortası nedir?;Hayat sigortası, vefat veya belirli durumlarda finansal güvence sağlayan poliçedir.;Sigorta
+532;Merkez Bankası ne iş yapar?;Merkez Bankası para politikasını belirler ve fiyat istikrarını sağlamaya çalışır.;Makroekonomi
+533;GSYH neyi ifade eder?;GSYH, bir ülkede belirli bir dönemde üretilen tüm nihai mal ve hizmetlerin toplam değeridir.;Makroekonomi
+534;Zorunlu trafik sigortası ne işe yarar?;Zorunlu trafik sigortası, kazalarda karşı tarafın zararını karşılar.;Sigorta
+535;Kredi faizi nasıl hesaplanır?;Kredi faizi, anapara üzerinden belirli bir oranda hesaplanır.;Kredi ve Faiz
+536;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+537;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+538;Bütçe nasıl yapılır?;Gelir ve giderler belirlenip planlı bir şekilde yönetilerek bütçe oluşturulur.;Finansal Okuryazarlık
+539;Fiyat dengesi nasıl oluşur?;Piyasada arz ve talep eşitlendiğinde fiyat dengesi oluşur.;Mikroekonomi
+540;Blok zinciri nasıl çalışır?;Blok zinciri, işlemleri doğrulayan ve kaydeden dağıtık bir veri yapısıdır.;Kripto Para
+541;Banka kredisi nasıl alınır?;Banka kredisi, başvuru, değerlendirme ve onay süreciyle alınır.;Bankacılık
+542;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+543;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+544;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+545;Kredi kartı limiti nasıl belirlenir?;Kredi kartı limiti, kişinin gelirine ve kredi notuna göre belirlenir.;Bankacılık
+546;Vadeli mevduat nedir?;Vadeli mevduat, belirli bir süre sonunda faiz getirisi sağlayan banka hesabıdır.;Bankacılık
+547;Temettü nedir?;Temettü, şirketin kârından hissedarlara dağıtılan paydır.;Yatırım ve Borsa
+548;Faiz oranları neden yükselir?;Faiz oranları enflasyon artışı, döviz kuru baskısı veya sıkı para politikası nedeniyle yükselebilir.;Makroekonomi
+549;Faiz oranları neden yükselir?;Faiz oranları enflasyon artışı, döviz kuru baskısı veya sıkı para politikası nedeniyle yükselebilir.;Makroekonomi
+550;GSYH neyi ifade eder?;GSYH, bir ülkede belirli bir dönemde üretilen tüm nihai mal ve hizmetlerin toplam değeridir.;Makroekonomi
+551;Kredi faizi nasıl hesaplanır?;Kredi faizi, anapara üzerinden belirli bir oranda hesaplanır.;Kredi ve Faiz
+552;Hisse senedi ne işe yarar?;Hisse senedi, bir şirkete ortak olma payını temsil eder.;Yatırım ve Borsa
+553;Arz ve talep nedir?;Arz, satıcıların piyasaya sunduğu miktar;
+554;Kripto cüzdanı nedir?;Kripto cüzdanı, dijital varlıkları saklamak için kullanılan yazılım veya donanımdır.;Kripto Para
+555;Kredi kartı limiti nasıl belirlenir?;Kredi kartı limiti, kişinin gelirine ve kredi notuna göre belirlenir.;Bankacılık
+556;Prim nedir?;Prim, sigorta için düzenli olarak ödenen bedeldir.;Sigorta
+557;Tasarruf neden önemlidir?;Tasarruf, gelecekteki harcamalar veya acil durumlar için güvence sağlar.;Finansal Okuryazarlık
+558;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+559;Zorunlu trafik sigortası ne işe yarar?;Zorunlu trafik sigortası, kazalarda karşı tarafın zararını karşılar.;Sigorta
+560;Tasarruf neden önemlidir?;Tasarruf, gelecekteki harcamalar veya acil durumlar için güvence sağlar.;Finansal Okuryazarlık
+561;Fiyat dengesi nasıl oluşur?;Piyasada arz ve talep eşitlendiğinde fiyat dengesi oluşur.;Mikroekonomi
+562;Bütçe nasıl yapılır?;Gelir ve giderler belirlenip planlı bir şekilde yönetilerek bütçe oluşturulur.;Finansal Okuryazarlık
+563;Faiz oranı nedir?;Faiz oranı, borç verilen paranın getirisini ifade eder.;Kredi ve Faiz
+564;Fiyat dengesi nasıl oluşur?;Piyasada arz ve talep eşitlendiğinde fiyat dengesi oluşur.;Mikroekonomi
+565;Kredi notu nedir?;Kredi notu, bireyin finansal geçmişine göre belirlenen risk puanıdır.;Finansal Okuryazarlık
+566;Hayat sigortası nedir?;Hayat sigortası, vefat veya belirli durumlarda finansal güvence sağlayan poliçedir.;Sigorta
+567;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+568;Merkez Bankası ne iş yapar?;Merkez Bankası para politikasını belirler ve fiyat istikrarını sağlamaya çalışır.;Makroekonomi
+569;Kredi faizi nasıl hesaplanır?;Kredi faizi, anapara üzerinden belirli bir oranda hesaplanır.;Kredi ve Faiz
+570;Kripto cüzdanı nedir?;Kripto cüzdanı, dijital varlıkları saklamak için kullanılan yazılım veya donanımdır.;Kripto Para
+571;Kredi notu nedir?;Kredi notu, bireyin finansal geçmişine göre belirlenen risk puanıdır.;Finansal Okuryazarlık
+572;Faiz oranı nedir?;Faiz oranı, borç verilen paranın getirisini ifade eder.;Kredi ve Faiz
+573;Kripto cüzdanı nedir?;Kripto cüzdanı, dijital varlıkları saklamak için kullanılan yazılım veya donanımdır.;Kripto Para
+574;Blok zinciri nasıl çalışır?;Blok zinciri, işlemleri doğrulayan ve kaydeden dağıtık bir veri yapısıdır.;Kripto Para
+575;Arz ve talep nedir?;Arz, satıcıların piyasaya sunduğu miktar;
+576;Fiyat dengesi nasıl oluşur?;Piyasada arz ve talep eşitlendiğinde fiyat dengesi oluşur.;Mikroekonomi
+577;GSYH neyi ifade eder?;GSYH, bir ülkede belirli bir dönemde üretilen tüm nihai mal ve hizmetlerin toplam değeridir.;Makroekonomi
+578;Fiyat dengesi nasıl oluşur?;Piyasada arz ve talep eşitlendiğinde fiyat dengesi oluşur.;Mikroekonomi
+579;Fiyat dengesi nasıl oluşur?;Piyasada arz ve talep eşitlendiğinde fiyat dengesi oluşur.;Mikroekonomi
+580;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+581;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+582;Temettü nedir?;Temettü, şirketin kârından hissedarlara dağıtılan paydır.;Yatırım ve Borsa
+583;Temettü nedir?;Temettü, şirketin kârından hissedarlara dağıtılan paydır.;Yatırım ve Borsa
+584;Kredi faizi nasıl hesaplanır?;Kredi faizi, anapara üzerinden belirli bir oranda hesaplanır.;Kredi ve Faiz
+585;Hisse senedi ne işe yarar?;Hisse senedi, bir şirkete ortak olma payını temsil eder.;Yatırım ve Borsa
+586;Arz ve talep nedir?;Arz, satıcıların piyasaya sunduğu miktar;
+587;Arz ve talep nedir?;Arz, satıcıların piyasaya sunduğu miktar;
+588;Faiz oranları neden yükselir?;Faiz oranları enflasyon artışı, döviz kuru baskısı veya sıkı para politikası nedeniyle yükselebilir.;Makroekonomi
+589;Arz ve talep nedir?;Arz, satıcıların piyasaya sunduğu miktar;
+590;Enflasyon nedir?;Enflasyon, genel fiyat seviyesinin zaman içinde sürekli artmasıdır.;Makroekonomi
+591;Vadeli mevduat nedir?;Vadeli mevduat, belirli bir süre sonunda faiz getirisi sağlayan banka hesabıdır.;Bankacılık
+592;Faiz oranları neden yükselir?;Faiz oranları enflasyon artışı, döviz kuru baskısı veya sıkı para politikası nedeniyle yükselebilir.;Makroekonomi
+593;Bütçe nasıl yapılır?;Gelir ve giderler belirlenip planlı bir şekilde yönetilerek bütçe oluşturulur.;Finansal Okuryazarlık
+594;Vadeli mevduat nedir?;Vadeli mevduat, belirli bir süre sonunda faiz getirisi sağlayan banka hesabıdır.;Bankacılık
+595;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+596;Zorunlu trafik sigortası ne işe yarar?;Zorunlu trafik sigortası, kazalarda karşı tarafın zararını karşılar.;Sigorta
+597;Vadeli mevduat nedir?;Vadeli mevduat, belirli bir süre sonunda faiz getirisi sağlayan banka hesabıdır.;Bankacılık
+598;Merkez Bankası ne iş yapar?;Merkez Bankası para politikasını belirler ve fiyat istikrarını sağlamaya çalışır.;Makroekonomi
+599;Prim nedir?;Prim, sigorta için düzenli olarak ödenen bedeldir.;Sigorta
+600;Prim nedir?;Prim, sigorta için düzenli olarak ödenen bedeldir.;Sigorta
+601;Vadeli mevduat nedir?;Vadeli mevduat, belirli bir süre sonunda faiz getirisi sağlayan banka hesabıdır.;Bankacılık
+602;Zorunlu trafik sigortası ne işe yarar?;Zorunlu trafik sigortası, kazalarda karşı tarafın zararını karşılar.;Sigorta
+603;Vadeli mevduat nedir?;Vadeli mevduat, belirli bir süre sonunda faiz getirisi sağlayan banka hesabıdır.;Bankacılık
+604;Faiz oranı nedir?;Faiz oranı, borç verilen paranın getirisini ifade eder.;Kredi ve Faiz
+605;Faiz oranları neden yükselir?;Faiz oranları enflasyon artışı, döviz kuru baskısı veya sıkı para politikası nedeniyle yükselebilir.;Makroekonomi
+606;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+607;Prim nedir?;Prim, sigorta için düzenli olarak ödenen bedeldir.;Sigorta
+608;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+609;Temettü nedir?;Temettü, şirketin kârından hissedarlara dağıtılan paydır.;Yatırım ve Borsa
+610;Kredi notu nedir?;Kredi notu, bireyin finansal geçmişine göre belirlenen risk puanıdır.;Finansal Okuryazarlık
+611;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+612;Prim nedir?;Prim, sigorta için düzenli olarak ödenen bedeldir.;Sigorta
+613;Kredi kartı limiti nasıl belirlenir?;Kredi kartı limiti, kişinin gelirine ve kredi notuna göre belirlenir.;Bankacılık
+614;Kredi faizi nasıl hesaplanır?;Kredi faizi, anapara üzerinden belirli bir oranda hesaplanır.;Kredi ve Faiz
+615;Kredi kartı limiti nasıl belirlenir?;Kredi kartı limiti, kişinin gelirine ve kredi notuna göre belirlenir.;Bankacılık
+616;Kredi notu nedir?;Kredi notu, bireyin finansal geçmişine göre belirlenen risk puanıdır.;Finansal Okuryazarlık
+617;Faiz oranları neden yükselir?;Faiz oranları enflasyon artışı, döviz kuru baskısı veya sıkı para politikası nedeniyle yükselebilir.;Makroekonomi
+618;GSYH neyi ifade eder?;GSYH, bir ülkede belirli bir dönemde üretilen tüm nihai mal ve hizmetlerin toplam değeridir.;Makroekonomi
+619;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+620;Enflasyon nedir?;Enflasyon, genel fiyat seviyesinin zaman içinde sürekli artmasıdır.;Makroekonomi
+621;Enflasyon nedir?;Enflasyon, genel fiyat seviyesinin zaman içinde sürekli artmasıdır.;Makroekonomi
+622;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+623;Bütçe nasıl yapılır?;Gelir ve giderler belirlenip planlı bir şekilde yönetilerek bütçe oluşturulur.;Finansal Okuryazarlık
+624;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+625;Arz ve talep nedir?;Arz, satıcıların piyasaya sunduğu miktar;
+626;Temettü nedir?;Temettü, şirketin kârından hissedarlara dağıtılan paydır.;Yatırım ve Borsa
+627;Zorunlu trafik sigortası ne işe yarar?;Zorunlu trafik sigortası, kazalarda karşı tarafın zararını karşılar.;Sigorta
+628;Faiz oranları neden yükselir?;Faiz oranları enflasyon artışı, döviz kuru baskısı veya sıkı para politikası nedeniyle yükselebilir.;Makroekonomi
+629;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+630;Kripto cüzdanı nedir?;Kripto cüzdanı, dijital varlıkları saklamak için kullanılan yazılım veya donanımdır.;Kripto Para
+631;Zorunlu trafik sigortası ne işe yarar?;Zorunlu trafik sigortası, kazalarda karşı tarafın zararını karşılar.;Sigorta
+632;Bütçe nasıl yapılır?;Gelir ve giderler belirlenip planlı bir şekilde yönetilerek bütçe oluşturulur.;Finansal Okuryazarlık
+633;Vadeli mevduat nedir?;Vadeli mevduat, belirli bir süre sonunda faiz getirisi sağlayan banka hesabıdır.;Bankacılık
+634;Kripto cüzdanı nedir?;Kripto cüzdanı, dijital varlıkları saklamak için kullanılan yazılım veya donanımdır.;Kripto Para
+635;Enflasyon nedir?;Enflasyon, genel fiyat seviyesinin zaman içinde sürekli artmasıdır.;Makroekonomi
+636;Zorunlu trafik sigortası ne işe yarar?;Zorunlu trafik sigortası, kazalarda karşı tarafın zararını karşılar.;Sigorta
+637;Blok zinciri nasıl çalışır?;Blok zinciri, işlemleri doğrulayan ve kaydeden dağıtık bir veri yapısıdır.;Kripto Para
+638;Bütçe nasıl yapılır?;Gelir ve giderler belirlenip planlı bir şekilde yönetilerek bütçe oluşturulur.;Finansal Okuryazarlık
+639;Vadeli mevduat nedir?;Vadeli mevduat, belirli bir süre sonunda faiz getirisi sağlayan banka hesabıdır.;Bankacılık
+640;Tasarruf neden önemlidir?;Tasarruf, gelecekteki harcamalar veya acil durumlar için güvence sağlar.;Finansal Okuryazarlık
+641;Prim nedir?;Prim, sigorta için düzenli olarak ödenen bedeldir.;Sigorta
+642;Fiyat dengesi nasıl oluşur?;Piyasada arz ve talep eşitlendiğinde fiyat dengesi oluşur.;Mikroekonomi
+643;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+644;Kripto cüzdanı nedir?;Kripto cüzdanı, dijital varlıkları saklamak için kullanılan yazılım veya donanımdır.;Kripto Para
+645;Bütçe nasıl yapılır?;Gelir ve giderler belirlenip planlı bir şekilde yönetilerek bütçe oluşturulur.;Finansal Okuryazarlık
+646;Faiz oranları neden yükselir?;Faiz oranları enflasyon artışı, döviz kuru baskısı veya sıkı para politikası nedeniyle yükselebilir.;Makroekonomi
+647;Enflasyon nedir?;Enflasyon, genel fiyat seviyesinin zaman içinde sürekli artmasıdır.;Makroekonomi
+648;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+649;Hayat sigortası nedir?;Hayat sigortası, vefat veya belirli durumlarda finansal güvence sağlayan poliçedir.;Sigorta
+650;Hisse senedi ne işe yarar?;Hisse senedi, bir şirkete ortak olma payını temsil eder.;Yatırım ve Borsa
+651;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+652;Hayat sigortası nedir?;Hayat sigortası, vefat veya belirli durumlarda finansal güvence sağlayan poliçedir.;Sigorta
+653;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+654;Enflasyon nedir?;Enflasyon, genel fiyat seviyesinin zaman içinde sürekli artmasıdır.;Makroekonomi
+655;Temettü nedir?;Temettü, şirketin kârından hissedarlara dağıtılan paydır.;Yatırım ve Borsa
+656;Kredi faizi nasıl hesaplanır?;Kredi faizi, anapara üzerinden belirli bir oranda hesaplanır.;Kredi ve Faiz
+657;Hayat sigortası nedir?;Hayat sigortası, vefat veya belirli durumlarda finansal güvence sağlayan poliçedir.;Sigorta
+658;Kredi faizi nasıl hesaplanır?;Kredi faizi, anapara üzerinden belirli bir oranda hesaplanır.;Kredi ve Faiz
+659;Enflasyon nedir?;Enflasyon, genel fiyat seviyesinin zaman içinde sürekli artmasıdır.;Makroekonomi
+660;Vadeli mevduat nedir?;Vadeli mevduat, belirli bir süre sonunda faiz getirisi sağlayan banka hesabıdır.;Bankacılık
+661;Kredi faizi nasıl hesaplanır?;Kredi faizi, anapara üzerinden belirli bir oranda hesaplanır.;Kredi ve Faiz
+662;Blok zinciri nasıl çalışır?;Blok zinciri, işlemleri doğrulayan ve kaydeden dağıtık bir veri yapısıdır.;Kripto Para
+663;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+664;Vadeli mevduat nedir?;Vadeli mevduat, belirli bir süre sonunda faiz getirisi sağlayan banka hesabıdır.;Bankacılık
+665;Kredi notu nedir?;Kredi notu, bireyin finansal geçmişine göre belirlenen risk puanıdır.;Finansal Okuryazarlık
+666;Kredi kartı limiti nasıl belirlenir?;Kredi kartı limiti, kişinin gelirine ve kredi notuna göre belirlenir.;Bankacılık
+667;Faiz oranı nedir?;Faiz oranı, borç verilen paranın getirisini ifade eder.;Kredi ve Faiz
+668;Banka kredisi nasıl alınır?;Banka kredisi, başvuru, değerlendirme ve onay süreciyle alınır.;Bankacılık
+669;Fiyat dengesi nasıl oluşur?;Piyasada arz ve talep eşitlendiğinde fiyat dengesi oluşur.;Mikroekonomi
+670;Kredi faizi nasıl hesaplanır?;Kredi faizi, anapara üzerinden belirli bir oranda hesaplanır.;Kredi ve Faiz
+671;Kredi notu nedir?;Kredi notu, bireyin finansal geçmişine göre belirlenen risk puanıdır.;Finansal Okuryazarlık
+672;GSYH neyi ifade eder?;GSYH, bir ülkede belirli bir dönemde üretilen tüm nihai mal ve hizmetlerin toplam değeridir.;Makroekonomi
+673;Hisse senedi ne işe yarar?;Hisse senedi, bir şirkete ortak olma payını temsil eder.;Yatırım ve Borsa
+674;Zorunlu trafik sigortası ne işe yarar?;Zorunlu trafik sigortası, kazalarda karşı tarafın zararını karşılar.;Sigorta
+675;Fiyat dengesi nasıl oluşur?;Piyasada arz ve talep eşitlendiğinde fiyat dengesi oluşur.;Mikroekonomi
+676;Faiz oranı nedir?;Faiz oranı, borç verilen paranın getirisini ifade eder.;Kredi ve Faiz
+677;Blok zinciri nasıl çalışır?;Blok zinciri, işlemleri doğrulayan ve kaydeden dağıtık bir veri yapısıdır.;Kripto Para
+678;Kredi faizi nasıl hesaplanır?;Kredi faizi, anapara üzerinden belirli bir oranda hesaplanır.;Kredi ve Faiz
+679;İhtiyaç kredisi nedir?;İhtiyaç kredisi, kişisel harcamalar için alınan kısa vadeli kredidir.;Kredi ve Faiz
+680;Kredi notu nedir?;Kredi notu, bireyin finansal geçmişine göre belirlenen risk puanıdır.;Finansal Okuryazarlık
+681;Hisse senedi ne işe yarar?;Hisse senedi, bir şirkete ortak olma payını temsil eder.;Yatırım ve Borsa
+682;Faiz oranı nedir?;Faiz oranı, borç verilen paranın getirisini ifade eder.;Kredi ve Faiz
+683;Vadeli mevduat nedir?;Vadeli mevduat, belirli bir süre sonunda faiz getirisi sağlayan banka hesabıdır.;Bankacılık
+684;Faiz oranı nedir?;Faiz oranı, borç verilen paranın getirisini ifade eder.;Kredi ve Faiz
+685;Prim nedir?;Prim, sigorta için düzenli olarak ödenen bedeldir.;Sigorta
+686;Zorunlu trafik sigortası ne işe yarar?;Zorunlu trafik sigortası, kazalarda karşı tarafın zararını karşılar.;Sigorta
+687;Banka kredisi nasıl alınır?;Banka kredisi, başvuru, değerlendirme ve onay süreciyle alınır.;Bankacılık
+688;GSYH neyi ifade eder?;GSYH, bir ülkede belirli bir dönemde üretilen tüm nihai mal ve hizmetlerin toplam değeridir.;Makroekonomi
+689;Kredi faizi nasıl hesaplanır?;Kredi faizi, anapara üzerinden belirli bir oranda hesaplanır.;Kredi ve Faiz
+690;Kredi kartı limiti nasıl belirlenir?;Kredi kartı limiti, kişinin gelirine ve kredi notuna göre belirlenir.;Bankacılık
+691;Faiz oranı nedir?;Faiz oranı, borç verilen paranın getirisini ifade eder.;Kredi ve Faiz
+692;Faiz oranları neden yükselir?;Faiz oranları enflasyon artışı, döviz kuru baskısı veya sıkı para politikası nedeniyle yükselebilir.;Makroekonomi
+693;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+694;İhtiyaç kredisi nedir?;İhtiyaç kredisi, kişisel harcamalar için alınan kısa vadeli kredidir.;Kredi ve Faiz
+695;İhtiyaç kredisi nedir?;İhtiyaç kredisi, kişisel harcamalar için alınan kısa vadeli kredidir.;Kredi ve Faiz
+696;Blok zinciri nasıl çalışır?;Blok zinciri, işlemleri doğrulayan ve kaydeden dağıtık bir veri yapısıdır.;Kripto Para
+697;Kredi kartı limiti nasıl belirlenir?;Kredi kartı limiti, kişinin gelirine ve kredi notuna göre belirlenir.;Bankacılık
+698;Temettü nedir?;Temettü, şirketin kârından hissedarlara dağıtılan paydır.;Yatırım ve Borsa
+699;Enflasyon nedir?;Enflasyon, genel fiyat seviyesinin zaman içinde sürekli artmasıdır.;Makroekonomi
+700;Merkez Bankası ne iş yapar?;Merkez Bankası para politikasını belirler ve fiyat istikrarını sağlamaya çalışır.;Makroekonomi
+701;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+702;Kredi notu nedir?;Kredi notu, bireyin finansal geçmişine göre belirlenen risk puanıdır.;Finansal Okuryazarlık
+703;Faiz oranı nedir?;Faiz oranı, borç verilen paranın getirisini ifade eder.;Kredi ve Faiz
+704;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+705;Faiz oranları neden yükselir?;Faiz oranları enflasyon artışı, döviz kuru baskısı veya sıkı para politikası nedeniyle yükselebilir.;Makroekonomi
+706;Fiyat dengesi nasıl oluşur?;Piyasada arz ve talep eşitlendiğinde fiyat dengesi oluşur.;Mikroekonomi
+707;Hisse senedi ne işe yarar?;Hisse senedi, bir şirkete ortak olma payını temsil eder.;Yatırım ve Borsa
+708;Vadeli mevduat nedir?;Vadeli mevduat, belirli bir süre sonunda faiz getirisi sağlayan banka hesabıdır.;Bankacılık
+709;Tasarruf neden önemlidir?;Tasarruf, gelecekteki harcamalar veya acil durumlar için güvence sağlar.;Finansal Okuryazarlık
+710;Arz ve talep nedir?;Arz, satıcıların piyasaya sunduğu miktar;
+711;Kripto cüzdanı nedir?;Kripto cüzdanı, dijital varlıkları saklamak için kullanılan yazılım veya donanımdır.;Kripto Para
+712;Vadeli mevduat nedir?;Vadeli mevduat, belirli bir süre sonunda faiz getirisi sağlayan banka hesabıdır.;Bankacılık
+713;Zorunlu trafik sigortası ne işe yarar?;Zorunlu trafik sigortası, kazalarda karşı tarafın zararını karşılar.;Sigorta
+714;Arz ve talep nedir?;Arz, satıcıların piyasaya sunduğu miktar;
+715;Kredi notu nedir?;Kredi notu, bireyin finansal geçmişine göre belirlenen risk puanıdır.;Finansal Okuryazarlık
+716;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+717;Fiyat dengesi nasıl oluşur?;Piyasada arz ve talep eşitlendiğinde fiyat dengesi oluşur.;Mikroekonomi
+718;Enflasyon nedir?;Enflasyon, genel fiyat seviyesinin zaman içinde sürekli artmasıdır.;Makroekonomi
+719;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+720;Kredi faizi nasıl hesaplanır?;Kredi faizi, anapara üzerinden belirli bir oranda hesaplanır.;Kredi ve Faiz
+721;Prim nedir?;Prim, sigorta için düzenli olarak ödenen bedeldir.;Sigorta
+722;Hisse senedi ne işe yarar?;Hisse senedi, bir şirkete ortak olma payını temsil eder.;Yatırım ve Borsa
+723;Banka kredisi nasıl alınır?;Banka kredisi, başvuru, değerlendirme ve onay süreciyle alınır.;Bankacılık
+724;Vadeli mevduat nedir?;Vadeli mevduat, belirli bir süre sonunda faiz getirisi sağlayan banka hesabıdır.;Bankacılık
+725;Zorunlu trafik sigortası ne işe yarar?;Zorunlu trafik sigortası, kazalarda karşı tarafın zararını karşılar.;Sigorta
+726;GSYH neyi ifade eder?;GSYH, bir ülkede belirli bir dönemde üretilen tüm nihai mal ve hizmetlerin toplam değeridir.;Makroekonomi
+727;Prim nedir?;Prim, sigorta için düzenli olarak ödenen bedeldir.;Sigorta
+728;Faiz oranı nedir?;Faiz oranı, borç verilen paranın getirisini ifade eder.;Kredi ve Faiz
+729;Fiyat dengesi nasıl oluşur?;Piyasada arz ve talep eşitlendiğinde fiyat dengesi oluşur.;Mikroekonomi
+730;Hayat sigortası nedir?;Hayat sigortası, vefat veya belirli durumlarda finansal güvence sağlayan poliçedir.;Sigorta
+731;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+732;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+733;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+734;Kredi faizi nasıl hesaplanır?;Kredi faizi, anapara üzerinden belirli bir oranda hesaplanır.;Kredi ve Faiz
+735;Kripto cüzdanı nedir?;Kripto cüzdanı, dijital varlıkları saklamak için kullanılan yazılım veya donanımdır.;Kripto Para
+736;Merkez Bankası ne iş yapar?;Merkez Bankası para politikasını belirler ve fiyat istikrarını sağlamaya çalışır.;Makroekonomi
+737;Tasarruf neden önemlidir?;Tasarruf, gelecekteki harcamalar veya acil durumlar için güvence sağlar.;Finansal Okuryazarlık
+738;Blok zinciri nasıl çalışır?;Blok zinciri, işlemleri doğrulayan ve kaydeden dağıtık bir veri yapısıdır.;Kripto Para
+739;Blok zinciri nasıl çalışır?;Blok zinciri, işlemleri doğrulayan ve kaydeden dağıtık bir veri yapısıdır.;Kripto Para
+740;İhtiyaç kredisi nedir?;İhtiyaç kredisi, kişisel harcamalar için alınan kısa vadeli kredidir.;Kredi ve Faiz
+741;Enflasyon nedir?;Enflasyon, genel fiyat seviyesinin zaman içinde sürekli artmasıdır.;Makroekonomi
+742;Banka kredisi nasıl alınır?;Banka kredisi, başvuru, değerlendirme ve onay süreciyle alınır.;Bankacılık
+743;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+744;İhtiyaç kredisi nedir?;İhtiyaç kredisi, kişisel harcamalar için alınan kısa vadeli kredidir.;Kredi ve Faiz
+745;Hisse senedi ne işe yarar?;Hisse senedi, bir şirkete ortak olma payını temsil eder.;Yatırım ve Borsa
+746;Hayat sigortası nedir?;Hayat sigortası, vefat veya belirli durumlarda finansal güvence sağlayan poliçedir.;Sigorta
+747;Vadeli mevduat nedir?;Vadeli mevduat, belirli bir süre sonunda faiz getirisi sağlayan banka hesabıdır.;Bankacılık
+748;Banka kredisi nasıl alınır?;Banka kredisi, başvuru, değerlendirme ve onay süreciyle alınır.;Bankacılık
+749;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+750;Merkez Bankası ne iş yapar?;Merkez Bankası para politikasını belirler ve fiyat istikrarını sağlamaya çalışır.;Makroekonomi
+751;Kredi faizi nasıl hesaplanır?;Kredi faizi, anapara üzerinden belirli bir oranda hesaplanır.;Kredi ve Faiz
+752;Kredi notu nedir?;Kredi notu, bireyin finansal geçmişine göre belirlenen risk puanıdır.;Finansal Okuryazarlık
+753;Faiz oranları neden yükselir?;Faiz oranları enflasyon artışı, döviz kuru baskısı veya sıkı para politikası nedeniyle yükselebilir.;Makroekonomi
+754;Banka kredisi nasıl alınır?;Banka kredisi, başvuru, değerlendirme ve onay süreciyle alınır.;Bankacılık
+755;Merkez Bankası ne iş yapar?;Merkez Bankası para politikasını belirler ve fiyat istikrarını sağlamaya çalışır.;Makroekonomi
+756;Enflasyon nedir?;Enflasyon, genel fiyat seviyesinin zaman içinde sürekli artmasıdır.;Makroekonomi
+757;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+758;Hayat sigortası nedir?;Hayat sigortası, vefat veya belirli durumlarda finansal güvence sağlayan poliçedir.;Sigorta
+759;Kredi kartı limiti nasıl belirlenir?;Kredi kartı limiti, kişinin gelirine ve kredi notuna göre belirlenir.;Bankacılık
+760;Blok zinciri nasıl çalışır?;Blok zinciri, işlemleri doğrulayan ve kaydeden dağıtık bir veri yapısıdır.;Kripto Para
+761;Blok zinciri nasıl çalışır?;Blok zinciri, işlemleri doğrulayan ve kaydeden dağıtık bir veri yapısıdır.;Kripto Para
+762;Vadeli mevduat nedir?;Vadeli mevduat, belirli bir süre sonunda faiz getirisi sağlayan banka hesabıdır.;Bankacılık
+763;Bütçe nasıl yapılır?;Gelir ve giderler belirlenip planlı bir şekilde yönetilerek bütçe oluşturulur.;Finansal Okuryazarlık
+764;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+765;Vadeli mevduat nedir?;Vadeli mevduat, belirli bir süre sonunda faiz getirisi sağlayan banka hesabıdır.;Bankacılık
+766;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+767;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+768;Kredi faizi nasıl hesaplanır?;Kredi faizi, anapara üzerinden belirli bir oranda hesaplanır.;Kredi ve Faiz
+769;Temettü nedir?;Temettü, şirketin kârından hissedarlara dağıtılan paydır.;Yatırım ve Borsa
+770;Kredi kartı limiti nasıl belirlenir?;Kredi kartı limiti, kişinin gelirine ve kredi notuna göre belirlenir.;Bankacılık
+771;Banka kredisi nasıl alınır?;Banka kredisi, başvuru, değerlendirme ve onay süreciyle alınır.;Bankacılık
+772;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+773;Kredi faizi nasıl hesaplanır?;Kredi faizi, anapara üzerinden belirli bir oranda hesaplanır.;Kredi ve Faiz
+774;Hayat sigortası nedir?;Hayat sigortası, vefat veya belirli durumlarda finansal güvence sağlayan poliçedir.;Sigorta
+775;Hisse senedi ne işe yarar?;Hisse senedi, bir şirkete ortak olma payını temsil eder.;Yatırım ve Borsa
+776;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+777;Vadeli mevduat nedir?;Vadeli mevduat, belirli bir süre sonunda faiz getirisi sağlayan banka hesabıdır.;Bankacılık
+778;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+779;Kredi kartı limiti nasıl belirlenir?;Kredi kartı limiti, kişinin gelirine ve kredi notuna göre belirlenir.;Bankacılık
+780;Blok zinciri nasıl çalışır?;Blok zinciri, işlemleri doğrulayan ve kaydeden dağıtık bir veri yapısıdır.;Kripto Para
+781;Zorunlu trafik sigortası ne işe yarar?;Zorunlu trafik sigortası, kazalarda karşı tarafın zararını karşılar.;Sigorta
+782;Temettü nedir?;Temettü, şirketin kârından hissedarlara dağıtılan paydır.;Yatırım ve Borsa
+783;Enflasyon nedir?;Enflasyon, genel fiyat seviyesinin zaman içinde sürekli artmasıdır.;Makroekonomi
+784;Faiz oranları neden yükselir?;Faiz oranları enflasyon artışı, döviz kuru baskısı veya sıkı para politikası nedeniyle yükselebilir.;Makroekonomi
+785;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+786;Arz ve talep nedir?;Arz, satıcıların piyasaya sunduğu miktar;
+787;Banka kredisi nasıl alınır?;Banka kredisi, başvuru, değerlendirme ve onay süreciyle alınır.;Bankacılık
+788;Banka kredisi nasıl alınır?;Banka kredisi, başvuru, değerlendirme ve onay süreciyle alınır.;Bankacılık
+789;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+790;Hayat sigortası nedir?;Hayat sigortası, vefat veya belirli durumlarda finansal güvence sağlayan poliçedir.;Sigorta
+791;Hisse senedi ne işe yarar?;Hisse senedi, bir şirkete ortak olma payını temsil eder.;Yatırım ve Borsa
+792;Zorunlu trafik sigortası ne işe yarar?;Zorunlu trafik sigortası, kazalarda karşı tarafın zararını karşılar.;Sigorta
+793;Vadeli mevduat nedir?;Vadeli mevduat, belirli bir süre sonunda faiz getirisi sağlayan banka hesabıdır.;Bankacılık
+794;Temettü nedir?;Temettü, şirketin kârından hissedarlara dağıtılan paydır.;Yatırım ve Borsa
+795;Kredi kartı limiti nasıl belirlenir?;Kredi kartı limiti, kişinin gelirine ve kredi notuna göre belirlenir.;Bankacılık
+796;Prim nedir?;Prim, sigorta için düzenli olarak ödenen bedeldir.;Sigorta
+797;Vadeli mevduat nedir?;Vadeli mevduat, belirli bir süre sonunda faiz getirisi sağlayan banka hesabıdır.;Bankacılık
+798;Temettü nedir?;Temettü, şirketin kârından hissedarlara dağıtılan paydır.;Yatırım ve Borsa
+799;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+800;Kredi kartı limiti nasıl belirlenir?;Kredi kartı limiti, kişinin gelirine ve kredi notuna göre belirlenir.;Bankacılık
+801;Fiyat dengesi nasıl oluşur?;Piyasada arz ve talep eşitlendiğinde fiyat dengesi oluşur.;Mikroekonomi
+802;İhtiyaç kredisi nedir?;İhtiyaç kredisi, kişisel harcamalar için alınan kısa vadeli kredidir.;Kredi ve Faiz
+803;Prim nedir?;Prim, sigorta için düzenli olarak ödenen bedeldir.;Sigorta
+804;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+805;Bütçe nasıl yapılır?;Gelir ve giderler belirlenip planlı bir şekilde yönetilerek bütçe oluşturulur.;Finansal Okuryazarlık
+806;Blok zinciri nasıl çalışır?;Blok zinciri, işlemleri doğrulayan ve kaydeden dağıtık bir veri yapısıdır.;Kripto Para
+807;Blok zinciri nasıl çalışır?;Blok zinciri, işlemleri doğrulayan ve kaydeden dağıtık bir veri yapısıdır.;Kripto Para
+808;Faiz oranları neden yükselir?;Faiz oranları enflasyon artışı, döviz kuru baskısı veya sıkı para politikası nedeniyle yükselebilir.;Makroekonomi
+809;GSYH neyi ifade eder?;GSYH, bir ülkede belirli bir dönemde üretilen tüm nihai mal ve hizmetlerin toplam değeridir.;Makroekonomi
+810;Banka kredisi nasıl alınır?;Banka kredisi, başvuru, değerlendirme ve onay süreciyle alınır.;Bankacılık
+811;Kripto cüzdanı nedir?;Kripto cüzdanı, dijital varlıkları saklamak için kullanılan yazılım veya donanımdır.;Kripto Para
+812;Blok zinciri nasıl çalışır?;Blok zinciri, işlemleri doğrulayan ve kaydeden dağıtık bir veri yapısıdır.;Kripto Para
+813;Hayat sigortası nedir?;Hayat sigortası, vefat veya belirli durumlarda finansal güvence sağlayan poliçedir.;Sigorta
+814;Hisse senedi ne işe yarar?;Hisse senedi, bir şirkete ortak olma payını temsil eder.;Yatırım ve Borsa
+815;Faiz oranları neden yükselir?;Faiz oranları enflasyon artışı, döviz kuru baskısı veya sıkı para politikası nedeniyle yükselebilir.;Makroekonomi
+816;Temettü nedir?;Temettü, şirketin kârından hissedarlara dağıtılan paydır.;Yatırım ve Borsa
+817;GSYH neyi ifade eder?;GSYH, bir ülkede belirli bir dönemde üretilen tüm nihai mal ve hizmetlerin toplam değeridir.;Makroekonomi
+818;Temettü nedir?;Temettü, şirketin kârından hissedarlara dağıtılan paydır.;Yatırım ve Borsa
+819;GSYH neyi ifade eder?;GSYH, bir ülkede belirli bir dönemde üretilen tüm nihai mal ve hizmetlerin toplam değeridir.;Makroekonomi
+820;Merkez Bankası ne iş yapar?;Merkez Bankası para politikasını belirler ve fiyat istikrarını sağlamaya çalışır.;Makroekonomi
+821;Prim nedir?;Prim, sigorta için düzenli olarak ödenen bedeldir.;Sigorta
+822;Hisse senedi ne işe yarar?;Hisse senedi, bir şirkete ortak olma payını temsil eder.;Yatırım ve Borsa
+823;Arz ve talep nedir?;Arz, satıcıların piyasaya sunduğu miktar;
+824;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+825;Kredi kartı limiti nasıl belirlenir?;Kredi kartı limiti, kişinin gelirine ve kredi notuna göre belirlenir.;Bankacılık
+826;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+827;Merkez Bankası ne iş yapar?;Merkez Bankası para politikasını belirler ve fiyat istikrarını sağlamaya çalışır.;Makroekonomi
+828;Kredi notu nedir?;Kredi notu, bireyin finansal geçmişine göre belirlenen risk puanıdır.;Finansal Okuryazarlık
+829;Enflasyon nedir?;Enflasyon, genel fiyat seviyesinin zaman içinde sürekli artmasıdır.;Makroekonomi
+830;İhtiyaç kredisi nedir?;İhtiyaç kredisi, kişisel harcamalar için alınan kısa vadeli kredidir.;Kredi ve Faiz
+831;Banka kredisi nasıl alınır?;Banka kredisi, başvuru, değerlendirme ve onay süreciyle alınır.;Bankacılık
+832;Faiz oranları neden yükselir?;Faiz oranları enflasyon artışı, döviz kuru baskısı veya sıkı para politikası nedeniyle yükselebilir.;Makroekonomi
+833;Bütçe nasıl yapılır?;Gelir ve giderler belirlenip planlı bir şekilde yönetilerek bütçe oluşturulur.;Finansal Okuryazarlık
+834;Arz ve talep nedir?;Arz, satıcıların piyasaya sunduğu miktar;
+835;Kredi notu nedir?;Kredi notu, bireyin finansal geçmişine göre belirlenen risk puanıdır.;Finansal Okuryazarlık
+836;Arz ve talep nedir?;Arz, satıcıların piyasaya sunduğu miktar;
+837;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+838;Hisse senedi ne işe yarar?;Hisse senedi, bir şirkete ortak olma payını temsil eder.;Yatırım ve Borsa
+839;Fiyat dengesi nasıl oluşur?;Piyasada arz ve talep eşitlendiğinde fiyat dengesi oluşur.;Mikroekonomi
+840;Kredi kartı limiti nasıl belirlenir?;Kredi kartı limiti, kişinin gelirine ve kredi notuna göre belirlenir.;Bankacılık
+841;Enflasyon nedir?;Enflasyon, genel fiyat seviyesinin zaman içinde sürekli artmasıdır.;Makroekonomi
+842;Hayat sigortası nedir?;Hayat sigortası, vefat veya belirli durumlarda finansal güvence sağlayan poliçedir.;Sigorta
+843;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+844;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+845;Fiyat dengesi nasıl oluşur?;Piyasada arz ve talep eşitlendiğinde fiyat dengesi oluşur.;Mikroekonomi
+846;Merkez Bankası ne iş yapar?;Merkez Bankası para politikasını belirler ve fiyat istikrarını sağlamaya çalışır.;Makroekonomi
+847;Faiz oranları neden yükselir?;Faiz oranları enflasyon artışı, döviz kuru baskısı veya sıkı para politikası nedeniyle yükselebilir.;Makroekonomi
+848;Enflasyon nedir?;Enflasyon, genel fiyat seviyesinin zaman içinde sürekli artmasıdır.;Makroekonomi
+849;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+850;Kripto cüzdanı nedir?;Kripto cüzdanı, dijital varlıkları saklamak için kullanılan yazılım veya donanımdır.;Kripto Para
+851;Kredi kartı limiti nasıl belirlenir?;Kredi kartı limiti, kişinin gelirine ve kredi notuna göre belirlenir.;Bankacılık
+852;Vadeli mevduat nedir?;Vadeli mevduat, belirli bir süre sonunda faiz getirisi sağlayan banka hesabıdır.;Bankacılık
+853;Faiz oranı nedir?;Faiz oranı, borç verilen paranın getirisini ifade eder.;Kredi ve Faiz
+854;Hayat sigortası nedir?;Hayat sigortası, vefat veya belirli durumlarda finansal güvence sağlayan poliçedir.;Sigorta
+855;GSYH neyi ifade eder?;GSYH, bir ülkede belirli bir dönemde üretilen tüm nihai mal ve hizmetlerin toplam değeridir.;Makroekonomi
+856;Tasarruf neden önemlidir?;Tasarruf, gelecekteki harcamalar veya acil durumlar için güvence sağlar.;Finansal Okuryazarlık
+857;Blok zinciri nasıl çalışır?;Blok zinciri, işlemleri doğrulayan ve kaydeden dağıtık bir veri yapısıdır.;Kripto Para
+858;İhtiyaç kredisi nedir?;İhtiyaç kredisi, kişisel harcamalar için alınan kısa vadeli kredidir.;Kredi ve Faiz
+859;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+860;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+861;Kripto cüzdanı nedir?;Kripto cüzdanı, dijital varlıkları saklamak için kullanılan yazılım veya donanımdır.;Kripto Para
+862;Arz ve talep nedir?;Arz, satıcıların piyasaya sunduğu miktar;
+863;Kredi faizi nasıl hesaplanır?;Kredi faizi, anapara üzerinden belirli bir oranda hesaplanır.;Kredi ve Faiz
+864;Temettü nedir?;Temettü, şirketin kârından hissedarlara dağıtılan paydır.;Yatırım ve Borsa
+865;Faiz oranı nedir?;Faiz oranı, borç verilen paranın getirisini ifade eder.;Kredi ve Faiz
+866;Banka kredisi nasıl alınır?;Banka kredisi, başvuru, değerlendirme ve onay süreciyle alınır.;Bankacılık
+867;İhtiyaç kredisi nedir?;İhtiyaç kredisi, kişisel harcamalar için alınan kısa vadeli kredidir.;Kredi ve Faiz
+868;Kredi notu nedir?;Kredi notu, bireyin finansal geçmişine göre belirlenen risk puanıdır.;Finansal Okuryazarlık
+869;Kredi faizi nasıl hesaplanır?;Kredi faizi, anapara üzerinden belirli bir oranda hesaplanır.;Kredi ve Faiz
+870;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+871;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+872;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+873;Arz ve talep nedir?;Arz, satıcıların piyasaya sunduğu miktar;
+874;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+875;Faiz oranları neden yükselir?;Faiz oranları enflasyon artışı, döviz kuru baskısı veya sıkı para politikası nedeniyle yükselebilir.;Makroekonomi
+876;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+877;Zorunlu trafik sigortası ne işe yarar?;Zorunlu trafik sigortası, kazalarda karşı tarafın zararını karşılar.;Sigorta
+878;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+879;Kripto cüzdanı nedir?;Kripto cüzdanı, dijital varlıkları saklamak için kullanılan yazılım veya donanımdır.;Kripto Para
+880;Kredi kartı limiti nasıl belirlenir?;Kredi kartı limiti, kişinin gelirine ve kredi notuna göre belirlenir.;Bankacılık
+881;Hisse senedi ne işe yarar?;Hisse senedi, bir şirkete ortak olma payını temsil eder.;Yatırım ve Borsa
+882;Blok zinciri nasıl çalışır?;Blok zinciri, işlemleri doğrulayan ve kaydeden dağıtık bir veri yapısıdır.;Kripto Para
+883;Tasarruf neden önemlidir?;Tasarruf, gelecekteki harcamalar veya acil durumlar için güvence sağlar.;Finansal Okuryazarlık
+884;Bütçe nasıl yapılır?;Gelir ve giderler belirlenip planlı bir şekilde yönetilerek bütçe oluşturulur.;Finansal Okuryazarlık
+885;Fiyat dengesi nasıl oluşur?;Piyasada arz ve talep eşitlendiğinde fiyat dengesi oluşur.;Mikroekonomi
+886;Zorunlu trafik sigortası ne işe yarar?;Zorunlu trafik sigortası, kazalarda karşı tarafın zararını karşılar.;Sigorta
+887;Kredi kartı limiti nasıl belirlenir?;Kredi kartı limiti, kişinin gelirine ve kredi notuna göre belirlenir.;Bankacılık
+888;Arz ve talep nedir?;Arz, satıcıların piyasaya sunduğu miktar;
+889;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+890;İhtiyaç kredisi nedir?;İhtiyaç kredisi, kişisel harcamalar için alınan kısa vadeli kredidir.;Kredi ve Faiz
+891;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+892;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+893;Banka kredisi nasıl alınır?;Banka kredisi, başvuru, değerlendirme ve onay süreciyle alınır.;Bankacılık
+894;Kripto cüzdanı nedir?;Kripto cüzdanı, dijital varlıkları saklamak için kullanılan yazılım veya donanımdır.;Kripto Para
+895;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+896;Vadeli mevduat nedir?;Vadeli mevduat, belirli bir süre sonunda faiz getirisi sağlayan banka hesabıdır.;Bankacılık
+897;Merkez Bankası ne iş yapar?;Merkez Bankası para politikasını belirler ve fiyat istikrarını sağlamaya çalışır.;Makroekonomi
+898;Tasarruf neden önemlidir?;Tasarruf, gelecekteki harcamalar veya acil durumlar için güvence sağlar.;Finansal Okuryazarlık
+899;İhtiyaç kredisi nedir?;İhtiyaç kredisi, kişisel harcamalar için alınan kısa vadeli kredidir.;Kredi ve Faiz
+900;Kredi notu nedir?;Kredi notu, bireyin finansal geçmişine göre belirlenen risk puanıdır.;Finansal Okuryazarlık
+901;Hayat sigortası nedir?;Hayat sigortası, vefat veya belirli durumlarda finansal güvence sağlayan poliçedir.;Sigorta
+902;Blok zinciri nasıl çalışır?;Blok zinciri, işlemleri doğrulayan ve kaydeden dağıtık bir veri yapısıdır.;Kripto Para
+903;Hisse senedi ne işe yarar?;Hisse senedi, bir şirkete ortak olma payını temsil eder.;Yatırım ve Borsa
+904;Banka kredisi nasıl alınır?;Banka kredisi, başvuru, değerlendirme ve onay süreciyle alınır.;Bankacılık
+905;Fiyat dengesi nasıl oluşur?;Piyasada arz ve talep eşitlendiğinde fiyat dengesi oluşur.;Mikroekonomi
+906;Kripto cüzdanı nedir?;Kripto cüzdanı, dijital varlıkları saklamak için kullanılan yazılım veya donanımdır.;Kripto Para
+907;Faiz oranı nedir?;Faiz oranı, borç verilen paranın getirisini ifade eder.;Kredi ve Faiz
+908;Tasarruf neden önemlidir?;Tasarruf, gelecekteki harcamalar veya acil durumlar için güvence sağlar.;Finansal Okuryazarlık
+909;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+910;Kripto cüzdanı nedir?;Kripto cüzdanı, dijital varlıkları saklamak için kullanılan yazılım veya donanımdır.;Kripto Para
+911;Bütçe nasıl yapılır?;Gelir ve giderler belirlenip planlı bir şekilde yönetilerek bütçe oluşturulur.;Finansal Okuryazarlık
+912;Faiz oranı nedir?;Faiz oranı, borç verilen paranın getirisini ifade eder.;Kredi ve Faiz
+913;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+914;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+915;Temettü nedir?;Temettü, şirketin kârından hissedarlara dağıtılan paydır.;Yatırım ve Borsa
+916;Faiz oranları neden yükselir?;Faiz oranları enflasyon artışı, döviz kuru baskısı veya sıkı para politikası nedeniyle yükselebilir.;Makroekonomi
+917;Bütçe nasıl yapılır?;Gelir ve giderler belirlenip planlı bir şekilde yönetilerek bütçe oluşturulur.;Finansal Okuryazarlık
+918;Kredi kartı limiti nasıl belirlenir?;Kredi kartı limiti, kişinin gelirine ve kredi notuna göre belirlenir.;Bankacılık
+919;Kredi kartı limiti nasıl belirlenir?;Kredi kartı limiti, kişinin gelirine ve kredi notuna göre belirlenir.;Bankacılık
+920;Zorunlu trafik sigortası ne işe yarar?;Zorunlu trafik sigortası, kazalarda karşı tarafın zararını karşılar.;Sigorta
+921;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+922;Merkez Bankası ne iş yapar?;Merkez Bankası para politikasını belirler ve fiyat istikrarını sağlamaya çalışır.;Makroekonomi
+923;Kredi notu nedir?;Kredi notu, bireyin finansal geçmişine göre belirlenen risk puanıdır.;Finansal Okuryazarlık
+924;Tasarruf neden önemlidir?;Tasarruf, gelecekteki harcamalar veya acil durumlar için güvence sağlar.;Finansal Okuryazarlık
+925;Faiz oranı nedir?;Faiz oranı, borç verilen paranın getirisini ifade eder.;Kredi ve Faiz
+926;Enflasyon nedir?;Enflasyon, genel fiyat seviyesinin zaman içinde sürekli artmasıdır.;Makroekonomi
+927;Tasarruf neden önemlidir?;Tasarruf, gelecekteki harcamalar veya acil durumlar için güvence sağlar.;Finansal Okuryazarlık
+928;Hisse senedi ne işe yarar?;Hisse senedi, bir şirkete ortak olma payını temsil eder.;Yatırım ve Borsa
+929;Zorunlu trafik sigortası ne işe yarar?;Zorunlu trafik sigortası, kazalarda karşı tarafın zararını karşılar.;Sigorta
+930;Hayat sigortası nedir?;Hayat sigortası, vefat veya belirli durumlarda finansal güvence sağlayan poliçedir.;Sigorta
+931;Merkez Bankası ne iş yapar?;Merkez Bankası para politikasını belirler ve fiyat istikrarını sağlamaya çalışır.;Makroekonomi
+932;İhtiyaç kredisi nedir?;İhtiyaç kredisi, kişisel harcamalar için alınan kısa vadeli kredidir.;Kredi ve Faiz
+933;Banka kredisi nasıl alınır?;Banka kredisi, başvuru, değerlendirme ve onay süreciyle alınır.;Bankacılık
+934;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+935;Hayat sigortası nedir?;Hayat sigortası, vefat veya belirli durumlarda finansal güvence sağlayan poliçedir.;Sigorta
+936;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+937;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+938;Arz ve talep nedir?;Arz, satıcıların piyasaya sunduğu miktar;
+939;Vadeli mevduat nedir?;Vadeli mevduat, belirli bir süre sonunda faiz getirisi sağlayan banka hesabıdır.;Bankacılık
+940;Vadeli mevduat nedir?;Vadeli mevduat, belirli bir süre sonunda faiz getirisi sağlayan banka hesabıdır.;Bankacılık
+941;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+942;Bütçe nasıl yapılır?;Gelir ve giderler belirlenip planlı bir şekilde yönetilerek bütçe oluşturulur.;Finansal Okuryazarlık
+943;Hisse senedi ne işe yarar?;Hisse senedi, bir şirkete ortak olma payını temsil eder.;Yatırım ve Borsa
+944;Arz ve talep nedir?;Arz, satıcıların piyasaya sunduğu miktar;
+945;Kredi faizi nasıl hesaplanır?;Kredi faizi, anapara üzerinden belirli bir oranda hesaplanır.;Kredi ve Faiz
+946;Hisse senedi ne işe yarar?;Hisse senedi, bir şirkete ortak olma payını temsil eder.;Yatırım ve Borsa
+947;Temettü nedir?;Temettü, şirketin kârından hissedarlara dağıtılan paydır.;Yatırım ve Borsa
+948;İhtiyaç kredisi nedir?;İhtiyaç kredisi, kişisel harcamalar için alınan kısa vadeli kredidir.;Kredi ve Faiz
+949;Tasarruf neden önemlidir?;Tasarruf, gelecekteki harcamalar veya acil durumlar için güvence sağlar.;Finansal Okuryazarlık
+950;Kredi notu nedir?;Kredi notu, bireyin finansal geçmişine göre belirlenen risk puanıdır.;Finansal Okuryazarlık
+951;Arz ve talep nedir?;Arz, satıcıların piyasaya sunduğu miktar;
+952;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+953;Blok zinciri nasıl çalışır?;Blok zinciri, işlemleri doğrulayan ve kaydeden dağıtık bir veri yapısıdır.;Kripto Para
+954;Fiyat dengesi nasıl oluşur?;Piyasada arz ve talep eşitlendiğinde fiyat dengesi oluşur.;Mikroekonomi
+955;Kredi notu nedir?;Kredi notu, bireyin finansal geçmişine göre belirlenen risk puanıdır.;Finansal Okuryazarlık
+956;Kredi kartı limiti nasıl belirlenir?;Kredi kartı limiti, kişinin gelirine ve kredi notuna göre belirlenir.;Bankacılık
+957;Bütçe nasıl yapılır?;Gelir ve giderler belirlenip planlı bir şekilde yönetilerek bütçe oluşturulur.;Finansal Okuryazarlık
+958;Bütçe nasıl yapılır?;Gelir ve giderler belirlenip planlı bir şekilde yönetilerek bütçe oluşturulur.;Finansal Okuryazarlık
+959;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+960;Kripto cüzdanı nedir?;Kripto cüzdanı, dijital varlıkları saklamak için kullanılan yazılım veya donanımdır.;Kripto Para
+961;Merkez Bankası ne iş yapar?;Merkez Bankası para politikasını belirler ve fiyat istikrarını sağlamaya çalışır.;Makroekonomi
+962;Kredi kartı limiti nasıl belirlenir?;Kredi kartı limiti, kişinin gelirine ve kredi notuna göre belirlenir.;Bankacılık
+963;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+964;Vadeli mevduat nedir?;Vadeli mevduat, belirli bir süre sonunda faiz getirisi sağlayan banka hesabıdır.;Bankacılık
+965;Vadeli mevduat nedir?;Vadeli mevduat, belirli bir süre sonunda faiz getirisi sağlayan banka hesabıdır.;Bankacılık
+966;Tasarruf neden önemlidir?;Tasarruf, gelecekteki harcamalar veya acil durumlar için güvence sağlar.;Finansal Okuryazarlık
+967;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+968;GSYH neyi ifade eder?;GSYH, bir ülkede belirli bir dönemde üretilen tüm nihai mal ve hizmetlerin toplam değeridir.;Makroekonomi
+969;Temettü nedir?;Temettü, şirketin kârından hissedarlara dağıtılan paydır.;Yatırım ve Borsa
+970;Bütçe nasıl yapılır?;Gelir ve giderler belirlenip planlı bir şekilde yönetilerek bütçe oluşturulur.;Finansal Okuryazarlık
+971;Hayat sigortası nedir?;Hayat sigortası, vefat veya belirli durumlarda finansal güvence sağlayan poliçedir.;Sigorta
+972;Prim nedir?;Prim, sigorta için düzenli olarak ödenen bedeldir.;Sigorta
+973;Banka kredisi nasıl alınır?;Banka kredisi, başvuru, değerlendirme ve onay süreciyle alınır.;Bankacılık
+974;Vadeli mevduat nedir?;Vadeli mevduat, belirli bir süre sonunda faiz getirisi sağlayan banka hesabıdır.;Bankacılık
+975;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+976;Bütçe nasıl yapılır?;Gelir ve giderler belirlenip planlı bir şekilde yönetilerek bütçe oluşturulur.;Finansal Okuryazarlık
+977;Blok zinciri nasıl çalışır?;Blok zinciri, işlemleri doğrulayan ve kaydeden dağıtık bir veri yapısıdır.;Kripto Para
+978;Vadeli mevduat nedir?;Vadeli mevduat, belirli bir süre sonunda faiz getirisi sağlayan banka hesabıdır.;Bankacılık
+979;GSYH neyi ifade eder?;GSYH, bir ülkede belirli bir dönemde üretilen tüm nihai mal ve hizmetlerin toplam değeridir.;Makroekonomi
+980;Kredi faizi nasıl hesaplanır?;Kredi faizi, anapara üzerinden belirli bir oranda hesaplanır.;Kredi ve Faiz
+981;Borsa endeksi nedir?;Borsa endeksi, hisse senetlerinin performansını ölçen göstergedir.;Yatırım ve Borsa
+982;Tasarruf neden önemlidir?;Tasarruf, gelecekteki harcamalar veya acil durumlar için güvence sağlar.;Finansal Okuryazarlık
+983;Hayat sigortası nedir?;Hayat sigortası, vefat veya belirli durumlarda finansal güvence sağlayan poliçedir.;Sigorta
+984;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+985;Merkez Bankası ne iş yapar?;Merkez Bankası para politikasını belirler ve fiyat istikrarını sağlamaya çalışır.;Makroekonomi
+986;Kredi kartı limiti nasıl belirlenir?;Kredi kartı limiti, kişinin gelirine ve kredi notuna göre belirlenir.;Bankacılık
+987;Zorunlu trafik sigortası ne işe yarar?;Zorunlu trafik sigortası, kazalarda karşı tarafın zararını karşılar.;Sigorta
+988;Kredi notu nedir?;Kredi notu, bireyin finansal geçmişine göre belirlenen risk puanıdır.;Finansal Okuryazarlık
+989;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+990;Arz ve talep nedir?;Arz, satıcıların piyasaya sunduğu miktar;
+991;Kripto cüzdanı nedir?;Kripto cüzdanı, dijital varlıkları saklamak için kullanılan yazılım veya donanımdır.;Kripto Para
+992;Tüketici fazlası nedir?;Tüketici fazlası, bir mal için ödemeye razı olunan fiyat ile ödenen fiyat arasındaki farktır.;Mikroekonomi
+993;Zorunlu trafik sigortası ne işe yarar?;Zorunlu trafik sigortası, kazalarda karşı tarafın zararını karşılar.;Sigorta
+994;Kredi kartı limiti nasıl belirlenir?;Kredi kartı limiti, kişinin gelirine ve kredi notuna göre belirlenir.;Bankacılık
+995;Kredi notu nedir?;Kredi notu, bireyin finansal geçmişine göre belirlenen risk puanıdır.;Finansal Okuryazarlık
+996;Faiz oranları neden yükselir?;Faiz oranları enflasyon artışı, döviz kuru baskısı veya sıkı para politikası nedeniyle yükselebilir.;Makroekonomi
+997;Banka kredisi nasıl alınır?;Banka kredisi, başvuru, değerlendirme ve onay süreciyle alınır.;Bankacılık
+998;Bitcoin nedir?;Bitcoin, merkeziyetsiz bir dijital para birimidir.;Kripto Para
+999;Hisse senedi ne işe yarar?;Hisse senedi, bir şirkete ortak olma payını temsil eder.;Yatırım ve Borsa
+1000;Hayat sigortası nedir?;Hayat sigortası, vefat veya belirli durumlarda finansal güvence sağlayan poliçedir.;Sigorta
