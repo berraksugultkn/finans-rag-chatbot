@@ -142,3 +142,10 @@ Geliştirici: Berraksu Gültekin
 ✅ Çözüm Mimarisi
 ✅ Web Arayüzü Açıklaması
 ✅ Sonuç & Lisans
+
+---
+
+## 🌐 Canlı Demo Linki
+Proje canlı olarak bu bağlantıdan test edilebilir:  
+👉 [https://finans-rag-chatbot-hh3vgdtduuntdvze294u4f.streamlit.app](https://finans-rag-chatbot-hh3vgdtduuntdvze294u4f.streamlit.app)
+
