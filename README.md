@@ -4,7 +4,7 @@
 Türkçe finans verileriyle çalışan bir **RAG (Retrieval-Augmented Generation)** tabanlı yapay zekâ sohbet robotudur.  
 
 🌐 **Canlı Demo:**  
-👉 https://github.com/berraksugultkn/finans-rag-chatbot
+👉 https://finans-rag-chatbot-hh3vgdtduuntdvze294u4f.streamlit.app
 
 
 ## 👩‍💻 Proje Bilgileri
